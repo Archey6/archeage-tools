@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import {
+  array,
   bool,
+  func,
   object,
+  oneOfType,
   string,
 } from 'react-proptypes';
 import cn from 'classnames';
@@ -29,8 +32,9 @@ class EventCard extends Component {
     type: string.isRequired,
     link: string,
     days: object,
-    times: object,
+    times: oneOfType([object, array]),
     regionNA: bool,
+    onUpdateTime: func.isRequired,
   };
 
   static defaultProps = {
@@ -52,8 +56,6 @@ class EventCard extends Component {
   timer = null;
 
   componentDidMount() {
-    const { type } = this.props;
-    if (type === EVENT_TYPE.GAME_TIME_EVENT) return;
     this.timer = setInterval(this.handleTick, 250);
   }
 
@@ -63,7 +65,14 @@ class EventCard extends Component {
 
   getTimes = () => {
     const { regionNA, times: timesRaw, days: daysRaw } = this.props;
-    const times = timesRaw && timesRaw[regionNA ? 'NA' : 'EU'] || [];
+    let times = [];
+    if (timesRaw) {
+      if (Array.isArray(timesRaw)) {
+        times = [...timesRaw];
+      } else {
+        times = timesRaw[regionNA ? 'NA' : 'EU'] || [];
+      }
+    }
     if (times.length === 0) {
       this.setState({ nextOccurrence: {}, running: null, time: 0 });
       return {};
@@ -80,6 +89,8 @@ class EventCard extends Component {
     const now = moment.utc().milliseconds(0);
     let running = null;
     const times = timesRaw.map(time => {
+      const { name, inGameTime } = time;
+
       if (time.days) {
         days = time.days;
       } else {
@@ -117,7 +128,7 @@ class EventCard extends Component {
         startTime.add(1, 'day');
         endTime && endTime.add(1, 'day');
       }
-      return { ...time, time: startTime, ends: endTime };
+      return { ...time, time: startTime, ends: endTime, name, inGameTime };
     });
 
     const nextOccurrence = {
@@ -138,10 +149,13 @@ class EventCard extends Component {
     if (time) {
       nextOccurrence.time = time.time;
       nextOccurrence.ends = time.ends;
-      nextOccurrence.duration = times.duration || null;
       nextOccurrence.day = (days.length >= 1);
+      nextOccurrence.name = time.name || null;
+      nextOccurrence.runningName = times.length > 1 ? times[times.length - 1].name : null;
+      nextOccurrence.inGameTime = time.inGameTime;
     }
 
+    this.props.onUpdateTime(this.props.name, { next: nextOccurrence, running });
     this.setState({ nextOccurrence, running });
   };
 
@@ -169,19 +183,16 @@ class EventCard extends Component {
   };
 
   render() {
-    const { icon, name, time, type, link } = this.props;
+    const { icon, name, inGameTime, type, link } = this.props;
     let { nextOccurrence, running, time: remainingTime } = this.state;
     const tz = moment.tz.guess();
     let upcoming = 'Unknown';
-    let upcomingTime;
     let label = 'Upcoming';
     let nextDay = null;
+    let displayName = `${name}${nextOccurrence.name ? `: ${nextOccurrence.name}` : ''}`;
 
-    if (type === EVENT_TYPE.GAME_TIME_EVENT) {
-      upcoming = time;
-      label = 'In-Game Time';
-    } else if (nextOccurrence.time) {
-      upcomingTime = nextOccurrence.time.tz(tz);
+    if (nextOccurrence.time) {
+      const upcomingTime = nextOccurrence.time.tz(tz);
       if (nextOccurrence.day) {
         nextDay = getDay(upcomingTime.day());
       }
@@ -191,6 +202,20 @@ class EventCard extends Component {
 
     if (running) {
       label = 'Next';
+      if (nextOccurrence.runningName) {
+        upcoming = `${nextOccurrence.name} at ${upcoming}`;
+        displayName = `${name}${nextOccurrence.runningName ? `: ${nextOccurrence.runningName}` : ''}`;
+      }
+    }
+
+    if (type === EVENT_TYPE.GAME_TIME_EVENT) {
+      if (running && nextOccurrence.runningName) {
+        upcoming = `${nextOccurrence.name} at ${nextOccurrence.inGameTime || inGameTime}`;
+        label = 'Next';
+      } else {
+        upcoming = nextOccurrence.inGameTime || inGameTime;
+        label = 'In-Game Time';
+      }
     }
 
     const remaining = (remainingTime > 0) ? hhmmssFromDate(remainingTime) : '';
@@ -207,7 +232,7 @@ class EventCard extends Component {
               <Avatar aria-label={name} src={icon} className="event-icon" />
             </div>
           }
-          title={link ? <Link to={link}>{name}</Link> : name}
+          title={link ? <Link to={link}>{displayName}</Link> : displayName}
           subheader={`${label}: ${upcoming}`}
           action={
             <div className="ev-status">

@@ -16,18 +16,42 @@ const Home = () => {
         {navigation.map(navLink => <Banner {...navLink} text={navLink.name} key={navLink.path || navLink.name} />)}
       </div>
       <NewsPost
+        title="Event Schedule Update"
+        date="Nov 27, 2019"
+      >
+        <Typography>
+          The Event Schedule has received a much needed update. Events are now sorted with the nearest events rising
+          towards the top, but actively running events stickied to the very top.
+        </Typography>
+        <Typography>
+          I've also added approximations for in-game events, such as the Grimghast and Crimson Rifts. It appears that
+          in-game time is synced with UTC but may vary by a minute or so depending on your server.
+        </Typography>
+        <Typography>
+          Lastly, I've added "phases" to events. For now, it's only used on Castle Siege and Crimson Rift. Castle Siege
+          was broken up into the "Preparation" and "Siege" phases on EU, with only the "Claim" phase available for now
+          on NA. Crimson Rift and Crimson Rift (Auroria) were combined into a single timer, with the title alternating
+          to indicate whether it was taking place in the mainland or Auroria.
+        </Typography>
+        <Typography variant="caption" component="p">
+          Library Bosses were permanently removed.<br />
+          ArchePass Reset and Ayanad Trader have been temporarily disabled until their respective systems are re-enabled
+          in ArcheAge Unchained.
+        </Typography>
+      </NewsPost>
+      <NewsPost
         title="Interactive Trade Pack Calculator"
         date="Nov 22, 2019"
       >
         <Typography>
           The Interactive Trade Pack Calculator is live! There are two parts to it. The overall page will display a
           single continent's turn-in zone's prices. The percentage that every pack is displayed at can be modified
-          with a slider at the top of the page.<br/>
+          with a slider at the top of the page.<br />
           The Commerce and Husbandry proficiencies are used in the second part of the tool...
         </Typography>
         <Typography>
           Clicking on any price on a table will open the pack inspector. From here, you will see all materials needed
-          to make a pack, along with the ability to enter the price it would cost to obtain one of them.<br/>
+          to make a pack, along with the ability to enter the price it would cost to obtain one of them.<br />
           Total gold and labor costs are calculated, and a separate demand percentage slider is available here along
           with a dropdown to select the pack's freshness profit, a toggle to include interest, and (for Cinderstone and
           Ynystere) if the +15% War bonus is active. All of this boils down into showing you the profit for this pack

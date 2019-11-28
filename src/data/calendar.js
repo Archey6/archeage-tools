@@ -1,5 +1,4 @@
 import AbyssalAttackIcon from 'images/event/abyssal_attack.png';
-import AyanadMerchantIcon from 'images/event/ayanad_merchant.png';
 import BossMonsterIcon from 'images/event/boss_monster.png';
 import CrimsonRiftIcon from 'images/event/crimson_rift.png';
 import DailyResetIcon from 'images/event/daily_reset.png';
@@ -38,34 +37,36 @@ export const REAL_TIME_EVENTS = Object.freeze([
       ],
     },
   },
-  {
-    icon: DailyResetIcon,
-    name: 'ArchePass Reset',
-    type: EVENT_TYPE.REAL_TIME_EVENT,
-    days: {
-      NA: [DAY.MONDAY],
-      EU: [DAY.MONDAY],
-    },
-    times: {
-      NA: [
-        { time: '00:00:00' },
-      ],
-      EU: [
-        { time: '00:00:00' },
-      ],
-    },
-  },
-  {
-    icon: AyanadMerchantIcon,
-    name: 'Ayanad Merchant',
-    type: EVENT_TYPE.REAL_TIME_EVENT,
-    times: {
-      NA: [
-        { time: '18:00:00', duration: '06:00:00' },
-      ],
-      EU: [],
-    },
-  },
+  // Temporarily hide ArchePass reset
+  // {
+  //   icon: DailyResetIcon,
+  //   name: 'ArchePass Reset',
+  //   type: EVENT_TYPE.REAL_TIME_EVENT,
+  //   days: {
+  //     NA: [DAY.MONDAY],
+  //     EU: [DAY.MONDAY],
+  //   },
+  //   times: {
+  //     NA: [
+  //       { time: '00:00:00' },
+  //     ],
+  //     EU: [
+  //       { time: '00:00:00' },
+  //     ],
+  //   },
+  // },
+  // Hiding Ayanad Merchant for now
+  // {
+  //   icon: AyanadMerchantIcon,
+  //   name: 'Ayanad Merchant',
+  //   type: EVENT_TYPE.REAL_TIME_EVENT,
+  //   times: {
+  //     NA: [
+  //       { time: '18:00:00', duration: '06:00:00' },
+  //     ],
+  //     EU: [],
+  //   },
+  // },
   {
     icon: DragonBlackIcon,
     name: 'Black Dragon',
@@ -89,11 +90,19 @@ export const REAL_TIME_EVENTS = Object.freeze([
     type: EVENT_TYPE.REAL_TIME_EVENT,
     days: {
       NA: [DAY.THURSDAY],
-      EU: [],
+      EU: [DAY.WEDNESDAY],
     },
     times: {
-      NA: [{ time: '01:00:00' }],
-      EU: [],
+      NA: [
+        { time: '01:00:00', duration: '01:00:00', name: 'Claim' },
+        // { time: '01:00:00', duration: '01:00:00', name: 'Preparation' },
+        // { time: '02:00:00', duration: '01:00:00', name: 'Siege' },
+      ],
+      EU: [
+        // { time: '20:00:00', duration: '01:00:00', name: 'Claim' },
+        { time: '20:00:00', duration: '01:00:00', name: 'Preparation' },
+        { time: '21:00:00', duration: '01:00:00', name: 'Siege' },
+      ],
     },
   },
   {
@@ -200,22 +209,6 @@ export const REAL_TIME_EVENTS = Object.freeze([
     },
   },
   {
-    icon: BossMonsterIcon,
-    name: 'Library Bosses',
-    type: EVENT_TYPE.WORLD_BOSSES,
-    times: {
-      NA: [
-        { time: '01:00:00', duration: '00:20:00' },
-        { time: '05:00:00', duration: '00:20:00' },
-        { time: '09:00:00', duration: '00:20:00' },
-        { time: '13:00:00', duration: '00:20:00' },
-        { time: '17:00:00', duration: '00:20:00' },
-        { time: '21:00:00', duration: '00:20:00' },
-      ],
-      EU: [],
-    },
-  },
-  {
     icon: LuscaAwakeningIcon,
     name: 'Lusca Awakening',
     type: EVENT_TYPE.REAL_TIME_EVENT,
@@ -289,39 +282,61 @@ export const GAME_TIME_EVENTS = Object.freeze([
     icon: CrimsonRiftIcon,
     name: 'Crimson Rift',
     link: '/guides/gilda-dailies#miscellaneous-quests',
-    type: EVENT_TYPE.GAME_TIME_EVENT,
-    time: '12:00',
-    duration: '00:20',
-  },
-  {
-    icon: CrimsonRiftIcon,
-    name: 'Crimson Rift (Auroria)',
-    link: '/guides/gilda-dailies#miscellaneous-quests',
-    type: EVENT_TYPE.GAME_TIME_EVENT,
-    time: '18:00',
-    duration: '00:20',
+    inGameTime: '12:00',
+    times: [
+      { time: '00:20:00', duration: '00:10:00', name: 'Mainland' },
+      { time: '01:20:00', duration: '00:10:00', name: 'Auroria', inGameTime: '18:00' },
+      { time: '04:20:00', duration: '00:10:00', name: 'Mainland' },
+      { time: '05:20:00', duration: '00:10:00', name: 'Auroria', inGameTime: '18:00' },
+      { time: '08:20:00', duration: '00:10:00', name: 'Mainland' },
+      { time: '09:20:00', duration: '00:10:00', name: 'Auroria', inGameTime: '18:00' },
+      { time: '12:20:00', duration: '00:10:00', name: 'Mainland' },
+      { time: '13:20:00', duration: '00:10:00', name: 'Auroria', inGameTime: '18:00' },
+      { time: '16:20:00', duration: '00:10:00', name: 'Mainland' },
+      { time: '17:20:00', duration: '00:10:00', name: 'Auroria', inGameTime: '18:00' },
+      { time: '20:20:00', duration: '00:10:00', name: 'Mainland' },
+      { time: '21:20:00', duration: '00:10:00', name: 'Auroria', inGameTime: '18:00' },
+    ],
   },
   {
     icon: GrimghastRiftIcon,
     name: 'Grimghast Rift',
     link: '/guides/gilda-dailies#miscellaneous-quests',
-    type: EVENT_TYPE.GAME_TIME_EVENT,
-    time: '00:00',
-    duration: '00:45',
+    inGameTime: '00:00',
+    times: [
+      { time: '02:20:00', duration: '00:10:00' },
+      { time: '06:20:00', duration: '00:10:00' },
+      { time: '10:20:00', duration: '00:10:00' },
+      { time: '14:20:00', duration: '00:10:00' },
+      { time: '18:20:00', duration: '00:10:00' },
+      { time: '22:20:00', duration: '00:10:00' },
+    ],
   },
   {
     icon: BossMonsterIcon,
     name: 'Jola',
-    type: EVENT_TYPE.GAME_TIME_EVENT,
-    time: '06:00',
-    duration: '06:00',
+    inGameTime: '06:00',
+    times: [
+      { time: '03:20:00', duration: '01:00:00' },
+      { time: '07:20:00', duration: '01:00:00' },
+      { time: '11:20:00', duration: '01:00:00' },
+      { time: '15:20:00', duration: '01:00:00' },
+      { time: '19:20:00', duration: '01:00:00' },
+      { time: '23:20:00', duration: '01:00:00' },
+    ],
   },
   {
     icon: BossMonsterIcon,
     name: 'Meina & Glenn',
     link: '/guides/meina-and-glenn',
-    type: EVENT_TYPE.GAME_TIME_EVENT,
-    time: '06:00',
-    duration: '06:00',
+    inGameTime: '06:00',
+    times: [
+      { time: '03:20:00', duration: '01:00:00' },
+      { time: '07:20:00', duration: '01:00:00' },
+      { time: '11:20:00', duration: '01:00:00' },
+      { time: '15:20:00', duration: '01:00:00' },
+      { time: '19:20:00', duration: '01:00:00' },
+      { time: '23:20:00', duration: '01:00:00' },
+    ],
   },
 ]);
