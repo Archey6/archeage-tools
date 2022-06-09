@@ -4714,7 +4714,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": "Daily activities will reset in $1.",
         "days": [
-          "SUNDAY"
+          "MONDAY"
         ],
         "startTime": "2021-08-24T00:00:00.000Z",
         "endTime": "2021-08-24T00:00:00.000Z"
