@@ -7,8 +7,8 @@ export default {
   service: {
     me: '/service/me',
     newsCreate: '/service/news',
-    newsPage: '/service/page.json',
-    newsPost: '/service/newspost.json',
+    newsPage: '/service/page${page}.json',
+    newsPost: '/service/news-post${postId}.json',
     newComment: '/service/comment',
     comment: '/service/comment/${commentId}',
     comments: '/service/comment/byPost/${postId}',
