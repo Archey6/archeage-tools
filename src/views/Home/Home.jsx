@@ -33,7 +33,27 @@ class Home extends Component {
   };
 
   state = {
-    posts: [],
+    posts: [{"id":  1,
+             "title":  "Welcome to ArcheRage!",
+             "body":  "The official Mokulu is no longer up, "+
+             "but he left a big part of his legacy available, which is very good! \n\n " +
+             "As our server has customized events I decided to invest a part of my time "+
+             "to facilitate the daily life of the new players that i am also a part of.\n\n"+
+             "\n\n"+
+             "The idea is to make the schedules part work, i have no experience with react, "+
+             "and by the way it took me a while to upload this to heroku. "+
+             "My job now is to map event times.\n\n" +
+
+             "I'll be honest, I'm doing something very basic, but if you still like it "+
+             "and it's useful, I invite you to donate some gold in the game, send something to ' <b>Dyani</b> ' 🐱 "+
+             "but if you are some kind of dollar tycoon here goes my paypal ' <b>ferna126@hotmail.com</b> '\n\n" +
+             "Forgive me for my basic english of 'google translator'...<img src='./leprechaun.png'>",
+             "author":  "Dyani",
+             "createDate":  "10/06/2022",
+             "editDate":  "",
+             "comments":  "teste",
+             "commentCount":  0,
+             "loading":  ""}],
     page: 0,
     pages: 0,
     loading: false,
