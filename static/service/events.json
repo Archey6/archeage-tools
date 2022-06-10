@@ -200,9 +200,9 @@
         "reminderTime": "00:15:00",
         "reminderMessage": null,
         "days": [
-          "WEDNESDAY",
-          "FRIDAY",
-          "SUNDAY"
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
         ],
         "startTime": "2021-08-24T19:29:00.000Z",
         "endTime": "2021-08-24T21:29:00.000Z"
