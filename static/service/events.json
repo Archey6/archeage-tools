@@ -931,7 +931,43 @@
     "times": [
       {
         "region": "NA",
-        "time": "02:15:00",
+        "time": "11:30:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "MONDAY",
+          "WEDNESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "15:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "MONDAY",
+          "WEDNESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "00:00:00",
         "duration": "00:45:00",
         "gameTime": null,
         "name": null,
@@ -943,39 +979,9 @@
           "TUESDAY",
           "THURSDAY",
           "SATURDAY"
-        ]
-      },
-      {
-        "region": "NA",
-        "time": "07:00:00",
-        "duration": "00:30:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "MONDAY",
-          "WEDNESDAY",
-          "FRIDAY",
-          "SUNDAY"
-        ]
-      },
-      {
-        "region": "NA",
-        "time": "20:15:00",
-        "duration": "00:45:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "MONDAY",
-          "WEDNESDAY",
-          "FRIDAY",
-          "SUNDAY"
-        ]
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
       },
       {
         "region": "EU",
@@ -1080,7 +1086,7 @@
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
     "nextTime": {
-      "region": "EU",
+      "region": "NA",
       "time": "00:00:00",
       "duration": "00:30:00",
       "gameTime": null,
@@ -1387,7 +1393,9 @@
           "WEDNESDAY",
           "THURSDAY",
           "FRIDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
       },
       {
         "region": "NA",
@@ -1404,7 +1412,9 @@
           "WEDNESDAY",
           "THURSDAY",
           "FRIDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
       },
       {
         "region": "NA",
@@ -1422,7 +1432,9 @@
           "THURSDAY",
           "FRIDAY",
           "SATURDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
       },
       {
         "region": "NA",
@@ -1436,7 +1448,9 @@
         "days": [
           "SATURDAY",
           "SUNDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
       },
       {
         "region": "NA",
@@ -1450,7 +1464,9 @@
         "days": [
           "SATURDAY",
           "SUNDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
       },
       {
         "region": "NA",
@@ -1465,7 +1481,9 @@
 
           "SUNDAY",
           "MONDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
       }
     ],
     "description": null,
