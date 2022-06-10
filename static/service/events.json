@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Daily Reset",
     "icon": "daily_reset",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -99,7 +99,7 @@
     "id": 2,
     "name": "Weekly Reset",
     "icon": "archepass_reset",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -171,7 +171,7 @@
     "id": 3,
     "name": "Abyssal Attack",
     "icon": "abyssal_attack",
-    "eventType": 4,
+    "eventType": 5,
     "times": [
       {
         "region": "NA",
@@ -267,7 +267,7 @@
     "id": 4,
     "name": "Mirage Isle Fish Fest",
     "icon": "fish_fest",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -1109,7 +1109,7 @@
     "id": 13,
     "name": "Castle",
     "icon": "castle_siege",
-    "eventType": 4,
+    "eventType": 5,
     "times": [
       {
         "region": "NA",
@@ -1984,7 +1984,7 @@
     "id": 20,
     "name": "The Yata Lantern",
     "icon": "event",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -2109,7 +2109,7 @@
     "id": 22,
     "name": "Daru Treasure",
     "icon": "event",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -2294,7 +2294,7 @@
     "id": 24,
     "name": "Aerial Delivery",
     "icon": "event",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "EU",
@@ -2419,7 +2419,7 @@
     "id": 25,
     "name": "An Uninvited Guest",
     "icon": "event",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -2544,7 +2544,7 @@
     "id": 26,
     "name": "Diamond Shores",
     "icon": "pioneer",
-    "eventType": 6,
+    "eventType": 7,
     "times": [
       {
         "region": "NA",
@@ -2793,7 +2793,7 @@
     "id": 27,
     "name": "Garden of the Gods",
     "icon": "archeage_green",
-    "eventType": 6,
+    "eventType": 7,
     "times": [
       {
         "region": "NA",
@@ -3514,7 +3514,7 @@
     "id": 28,
     "name": "A Royal Dish",
     "icon": "event",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -3639,7 +3639,7 @@
     "id": 29,
     "name": "Troubled Spirits",
     "icon": "event",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -3941,7 +3941,7 @@
     "id": 31,
     "name": "Akasch Invasion",
     "icon": "ipyna",
-    "eventType": 4,
+    "eventType": 5,
     "times": [
       {
         "region": "EU",
@@ -4091,7 +4091,7 @@
     "id": 33,
     "name": "Land Rush",
     "icon": "pioneer",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -4128,7 +4128,7 @@
     "id": 34,
     "name": "Animal Placement Program",
     "icon": "event",
-    "eventType": 5,
+    "eventType": 6,
     "times": [
       {
         "region": "NA",
@@ -4253,7 +4253,7 @@
     "id": 35,
     "name": "Reedwind",
     "icon": "boss_monster",
-    "eventType": 6,
+    "eventType": 7,
     "times": [
       {
         "region": "NA",
@@ -4715,5 +4715,200 @@
     "description": "Reedwind enters war for 50 minutes every other hour.",
     "link": null,
     "disabled": true
+  },
+  {
+    "id": 36,
+    "name": "Custom Red Dragon",
+    "icon": "dragon_red",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 37,
+    "name": "Hasla Zombies",
+    "icon": "dragon_red",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "17:00:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 38,
+    "name": "Hasla Zombies",
+    "icon": "dragon_red",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "17:00:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
   }
 ]

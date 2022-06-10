@@ -24,7 +24,15 @@
     "reminderMessage": "$0 will spawn in $1."
   },
   {
-    "id": 4,
+  "id": 4,
+  "name": "Custom Events",
+  "icon": "boss",
+  "color": "DEEPPURPLE",
+  "startMessage": "$0 has started.",
+  "reminderMessage": "$0 will start in $1."
+  },
+  {
+    "id": 5,
     "name": "PvP Events",
     "icon": "pvp",
     "color": "GOLD",
@@ -32,7 +40,7 @@
     "reminderMessage": "$0 will start in $1."
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Other Events",
     "icon": "flag",
     "color": "PURPLE",
@@ -40,11 +48,19 @@
     "reminderMessage": "$0 will start in $1."
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Zone War",
     "icon": "war",
     "color": "ORANGE",
     "startMessage": "$0 has fallen into a state of war for $2.",
     "reminderMessage": "$0 will fall into a state of war in $1."
+  },
+  {
+    "id": 8,
+    "name": "Ocean Events",
+    "icon": "war",
+    "color": "CYAN",
+    "startMessage": "$0 has started.",
+    "reminderMessage": "$0 will start in $1."
   }
 ]
