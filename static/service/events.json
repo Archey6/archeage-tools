@@ -1284,7 +1284,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "06:00:00",
+        "time": "22:00:00",
         "duration": "01:30:00",
         "gameTime": null,
         "name": null,
@@ -1303,7 +1303,7 @@
       },
       {
         "region": "NA",
-        "time": "15:00:00",
+        "time": "12:00:00",
         "duration": "02:00:00",
         "gameTime": null,
         "name": null,
@@ -1923,7 +1923,7 @@
     "times": [
       {
         "region": null,
-        "time": "02:20:00",
+        "time": "15:20:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -1944,7 +1944,7 @@
       },
       {
         "region": null,
-        "time": "06:20:00",
+        "time": "19:20:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -1965,7 +1965,7 @@
       },
       {
         "region": null,
-        "time": "10:20:00",
+        "time": "23:20:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -1986,7 +1986,7 @@
       },
       {
         "region": null,
-        "time": "14:20:00",
+        "time": "03:20:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -2007,7 +2007,7 @@
       },
       {
         "region": null,
-        "time": "18:20:00",
+        "time": "07:20:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -2028,7 +2028,7 @@
       },
       {
         "region": null,
-        "time": "22:20:00",
+        "time": "11:20:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -2312,7 +2312,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "01:50:00",
+        "time": "01:00:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -2320,8 +2320,7 @@
         "reminderTime": "00:15:00",
         "reminderMessage": "Anthalon will spawn in the Garden in $1.",
         "days": [
-          "SUNDAY",
-          "MONDAY"
+          "SUNDAY"
         ]
       },
       {
@@ -2347,8 +2346,8 @@
     "timer": "2021-08-28T18:50:00.000Z",
     "activeTime": null,
     "nextTime": {
-      "region": "EU",
-      "time": "18:50:00",
+      "region": "NA",
+      "time": "01:00:00",
       "duration": "01:00:00",
       "gameTime": null,
       "name": null,
@@ -4052,7 +4051,7 @@
     ],
     "description": null,
     "link": null,
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-27T19:30:00.000Z",
     "activeTime": null,
     "nextTime": {
@@ -4912,15 +4911,15 @@
     }
   },
   {
-    "id": 38,
-    "name": "Hasla Zombies",
+    "id": 39,
+    "name": "The Merchants Day!",
     "icon": "dragon_red",
     "eventType": 8,
     "times": [
       {
         "region": "NA",
-        "time": "17:00:00",
-        "duration": "00:45:00",
+        "time": "04:00:00",
+        "duration": "24:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -4928,19 +4927,158 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
           "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "The Fishers Day!",
+    "icon": "dragon_red",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 41,
+    "name": "Treasures Hunter Day!",
+    "icon": "dragon_red",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 42,
+    "name": "Sea Spirit General",
+    "icon": "dragon_red",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "17:30:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+          "SATURDAY"
         ],
         "startTime": "2021-08-23T00:00:00.000Z",
         "endTime": "2021-08-23T00:30:00.000Z"
       },
       {
         "region": "NA",
-        "time": "00:00:00",
+        "time": "02:30:00",
         "duration": "00:45:00",
         "gameTime": null,
         "name": null,
@@ -4948,12 +5086,7 @@
         "reminderTime": "00:15:00",
         "reminderMessage": null,
         "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
           "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
           "SUNDAY"
         ],
         "startTime": "2021-08-23T00:00:00.000Z",

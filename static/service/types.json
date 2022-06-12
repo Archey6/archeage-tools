@@ -25,7 +25,7 @@
   },
   {
   "id": 4,
-  "name": "Custom Events",
+  "name": "Custom Boss",
   "icon": "boss",
   "color": "DEEPPURPLE",
   "startMessage": "$0 has started.",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "name": "Vocational Events",
+    "name": "Custom Events",
     "icon": "war",
     "color": "CYAN",
     "startMessage": "$0 has started.",
