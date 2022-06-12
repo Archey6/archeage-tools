@@ -2621,7 +2621,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "00:00:00",
+        "time": "23:00:00",
         "duration": "02:00:00",
         "gameTime": null,
         "name": null,
@@ -2640,7 +2640,7 @@
       },
       {
         "region": "NA",
-        "time": "12:00:00",
+        "time": "11:00:00",
         "duration": "02:00:00",
         "gameTime": null,
         "name": null,
@@ -2701,7 +2701,7 @@
       },
       {
         "region": "NA",
-        "time": "06:00:00",
+        "time": "05:00:00",
         "duration": "02:00:00",
         "gameTime": null,
         "name": null,
@@ -2720,7 +2720,7 @@
       },
       {
         "region": "NA",
-        "time": "18:00:00",
+        "time": "17:00:00",
         "duration": "02:00:00",
         "gameTime": null,
         "name": null,
@@ -2870,7 +2870,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "00:00:00",
+        "time": "23:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2889,7 +2889,7 @@
       },
       {
         "region": "NA",
-        "time": "02:00:00",
+        "time": "01:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2908,7 +2908,7 @@
       },
       {
         "region": "NA",
-        "time": "04:00:00",
+        "time": "03:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2927,7 +2927,7 @@
       },
       {
         "region": "NA",
-        "time": "06:00:00",
+        "time": "05:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2946,7 +2946,7 @@
       },
       {
         "region": "NA",
-        "time": "08:00:00",
+        "time": "07:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2965,7 +2965,26 @@
       },
       {
         "region": "NA",
-        "time": "10:00:00",
+        "time": "09:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "11:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3022,7 +3041,7 @@
       },
       {
         "region": "NA",
-        "time": "16:00:00",
+        "time": "17:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3041,7 +3060,7 @@
       },
       {
         "region": "NA",
-        "time": "18:00:00",
+        "time": "19:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3060,26 +3079,7 @@
       },
       {
         "region": "NA",
-        "time": "20:00:00",
-        "duration": "00:50:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
-        ]
-      },
-      {
-        "region": "NA",
-        "time": "22:00:00",
+        "time": "21:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
