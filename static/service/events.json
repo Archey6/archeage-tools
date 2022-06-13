@@ -2320,7 +2320,8 @@
         "reminderTime": "00:15:00",
         "reminderMessage": "Anthalon will spawn in the Garden in $1.",
         "days": [
-          "SUNDAY"
+          "SUNDAY",
+          "MONDAY"
         ]
       },
       {
