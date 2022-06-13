@@ -912,7 +912,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "03:00:00",
+        "time": "20:00:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -927,7 +927,29 @@
           "FRIDAY",
           "SATURDAY",
           "SUNDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },{
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Lusca have awoken in the Sea of Graves.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Lusca will awaken in the Sea of Graves in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
       },
       {
         "region": "EU",
@@ -1200,7 +1222,7 @@
       },
       {
         "region": "NA",
-        "time": "01:00:00",
+        "time": "00:00:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": "Claim / Siege Prep",
@@ -1208,12 +1230,12 @@
         "reminderTime": "00:30:00",
         "reminderMessage": "Castle claim or siege preparations begins in $1 for $2.",
         "days": [
-          "THURSDAY"
+          "SARTUDAY"
         ]
       },
       {
         "region": "NA",
-        "time": "02:00:00",
+        "time": "01:00:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": "Siege",
@@ -1221,7 +1243,7 @@
         "reminderTime": "00:05:00",
         "reminderMessage": "Castle siege is beginning in $1 for up to $2.",
         "days": [
-          "THURSDAY"
+          "SARTUDAY"
         ]
       },
       {
