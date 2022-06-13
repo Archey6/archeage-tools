@@ -598,8 +598,8 @@
     "times": [
       {
         "region": "NA",
-        "time": "02:15:00",
-        "duration": "00:45:00",
+        "time": "11:30:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -607,42 +607,48 @@
         "reminderMessage": null,
         "days": [
           "SUNDAY",
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "15:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
           "MONDAY",
           "WEDNESDAY",
-          "FRIDAY"
-        ]
-      },
-      {
-        "region": "NA",
-        "time": "07:00:00",
-        "duration": "00:30:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "SUNDAY",
-          "TUESDAY",
-          "THURSDAY",
-          "SATURDAY"
-        ]
-      },
-      {
-        "region": "NA",
-        "time": "20:15:00",
-        "duration": "00:45:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "SUNDAY",
-          "TUESDAY",
-          "THURSDAY",
-          "SATURDAY"
-        ]
+          "FRIDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:30:00.000Z"
       },
       {
         "region": "EU",
@@ -1306,25 +1312,6 @@
     "times": [
       {
         "region": "NA",
-        "time": "22:00:00",
-        "duration": "01:30:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
-        ]
-      },
-      {
-        "region": "NA",
         "time": "12:00:00",
         "duration": "02:00:00",
         "gameTime": null,
@@ -1340,12 +1327,14 @@
           "FRIDAY",
           "SATURDAY",
           "SUNDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
       },
       {
         "region": "NA",
-        "time": "23:00:00",
-        "duration": "05:00:00",
+        "time": "22:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -1359,7 +1348,9 @@
           "FRIDAY",
           "SATURDAY",
           "SUNDAY"
-        ]
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
       },
       {
         "region": "EU",
