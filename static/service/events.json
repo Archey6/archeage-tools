@@ -1230,7 +1230,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": "Castle claim or siege preparations begins in $1 for $2.",
         "days": [
-          "SARTUDAY"
+          "SATURDAY"
         ]
       },
       {
@@ -1243,7 +1243,7 @@
         "reminderTime": "00:05:00",
         "reminderMessage": "Castle siege is beginning in $1 for up to $2.",
         "days": [
-          "SARTUDAY"
+          "SATURDAY"
         ]
       },
       {
