@@ -4805,8 +4805,8 @@
   },
   {
     "id": 36,
-    "name": "Custom Red Dragon",
-    "icon": "dragon_red",
+    "name": "Custom Black Dragon",
+    "icon": "dragon_black",
     "eventType": 4,
     "times": [
       {
