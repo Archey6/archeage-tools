@@ -20,6 +20,7 @@ import IfPerm from 'components/IfPerm';
 import Link from 'components/Link';
 import moment from 'moment-timezone';
 import React, { Component } from 'react';
+import myStyle from "./EventCard.css";
 import {
   array,
   bool,
@@ -122,6 +123,15 @@ class EventCard extends Component {
     const remainingTime = timer.diff(now);
     const remaining = (remainingTime >= 0) ? hhmmssFromDate(remainingTime) : '';
 
+    let externalLink;
+
+    if (this.props.link != null && this.props.link.startsWith("http")) {
+      // eslint-disable-next-line react/jsx-no-target-blank
+      externalLink = link ? <a style={ { cursor: "pointer" } } target="_blank" href={link}>{displayName} </a> : displayName
+    } else {
+      externalLink = link ? <Link target="_blank" to={link}>{displayName} </Link> : displayName
+    }
+
     return (
       <Card square className="event-card">
         <CardHeader
@@ -134,7 +144,7 @@ class EventCard extends Component {
               <Avatar aria-label={name} src={`/images/event/${icon}.png`} className="event-icon" />
             </div>
           }
-          title={link ? <Link to={link}>{displayName}</Link> : displayName}
+          title={externalLink}
           subheader={`${label}: ${upcoming}`}
           action={
             <div className="ev-status">
@@ -225,6 +235,9 @@ class EventCard extends Component {
       </Card>
     );
   }
+
 }
+
+
 
 export default EventCard;
