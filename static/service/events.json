@@ -453,7 +453,7 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
-          "WEDNESDAY"
+          "FRIDAY"
         ]
       },{
         "region": "NA",
@@ -465,7 +465,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "FRIDAY"
+          "WEDNESDAY"
         ]
       },
       {
@@ -854,7 +854,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "02:30:00",
+        "time": "00:00:00",
         "duration": "03:00:00",
         "gameTime": null,
         "name": null,
@@ -862,8 +862,21 @@
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "MONDAY",
-          "FRIDAY"
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ]
+      },{
+        "region": "NA",
+        "time": "01:30:00",
+        "duration": "03:00:00",
+        "gameTime": null,
+        "name": "( 50% chance to spawn )",
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY"
         ]
       },
       {
@@ -929,7 +942,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "20:00:00",
+        "time": "20:30:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -1014,7 +1027,7 @@
     "disabled": false,
     "timer": "2021-08-24T21:00:00.000Z",
     "nextTime": {
-      "region": "EU",
+      "region": "NA",
       "time": "20:00:00",
       "duration": "01:00:00",
       "gameTime": null,
@@ -1045,7 +1058,7 @@
       {
         "region": "NA",
         "time": "11:30:00",
-        "duration": "00:45:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -1063,7 +1076,7 @@
       {
         "region": "NA",
         "time": "15:00:00",
-        "duration": "00:30:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -1081,7 +1094,7 @@
       {
         "region": "NA",
         "time": "00:00:00",
-        "duration": "00:45:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
