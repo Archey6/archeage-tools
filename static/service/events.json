@@ -5315,7 +5315,7 @@
         "time": "04:00:00",
         "duration": "144:00:00",
         "gameTime": null,
-        "name": "Until June, 21st, 2022",
+        "name": null,
         "startMessage": null,
         "reminderTime": "00:15:00",
         "reminderMessage": null,
@@ -5324,7 +5324,7 @@
         "endTime": "2022-06-21T00:30:00.000Z"
       }
     ],
-    "description": null,
+    "description": "Until June, 21st, 2022",
     "link": "https://na.archerage.to/forums/threads/game-event-rocknscroll.10857/",
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
@@ -5367,9 +5367,9 @@
       {
         "region": "NA",
         "time": "04:00:00",
-        "duration": "24:00:00",
+        "duration": "144:00:00",
         "gameTime": null,
-        "name": "Starting March, 31st, 2022",
+        "name": null,
         "startMessage": null,
         "reminderTime": "00:15:00",
         "reminderMessage": null,
@@ -5379,7 +5379,7 @@
         "endTime": "2022-06-21T00:30:00.000Z"
       }
     ],
-    "description": null,
+    "description": "Starting March, 31st, 2022",
     "link": "https://na.archerage.to/forums/threads/forum-event-advertise-with-us.10697/",
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
@@ -5394,9 +5394,9 @@
       {
         "region": "NA",
         "time": "04:00:00",
-        "duration": "24:00:00",
+        "duration": "144:00:00",
         "gameTime": null,
-        "name": "June, 5th - June, 25nd, 2022",
+        "name": null,
         "startMessage": null,
         "reminderTime": "00:15:00",
         "reminderMessage": null,
@@ -5406,7 +5406,7 @@
         "endTime": "2022-06-21T00:30:00.000Z"
       }
     ],
-    "description": null,
+    "description": "June, 5th - June, 25nd, 2022",
     "link": "https://na.archerage.to/forums/threads/forum-event-art-competition.10843/",
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
