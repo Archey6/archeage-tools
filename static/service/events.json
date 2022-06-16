@@ -4985,6 +4985,7 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
+          "THURSDAY",
           "FRIDAY",
           "SATURDAY"
         ],
@@ -5184,7 +5185,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "14:30:00",
+        "time": "15:30:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -5209,6 +5210,70 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "Harbinger",
+    "icon": "dragon_red",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "17:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:30:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
           "SATURDAY"
         ],
         "startTime": "2021-08-23T00:00:00.000Z",
