@@ -241,7 +241,7 @@
       }
     ],
     "description": null,
-    "link": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67858",
     "disabled": false,
     "timer": "2021-08-24T21:29:00.000Z",
     "nextTime": {
@@ -312,7 +312,7 @@
       }
     ],
     "description": "The fishing contest in Mirage is open to everyone for most of the day on Saturday.",
-    "link": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-69080",
     "disabled": false,
     "timer": "2021-08-28T10:00:00.000Z",
     "activeTime": null,
@@ -414,7 +414,7 @@
       }
     ],
     "description": null,
-    "link": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-80914",
     "disabled": false,
     "timer": "2021-08-29T19:30:00.000Z",
     "activeTime": null,
@@ -486,7 +486,7 @@
       }
     ],
     "description": null,
-    "link": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-84819",
     "disabled": false,
     "timer": "2021-08-26T19:30:00.000Z",
     "activeTime": null,
@@ -575,7 +575,7 @@
       }
     ],
     "description": null,
-    "link": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67882",
     "disabled": false,
     "timer": "2021-08-24T20:45:00.000Z",
     "nextTime": {
@@ -717,7 +717,7 @@
       }
     ],
     "description": null,
-    "link": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67877",
     "disabled": false,
     "timer": "2021-08-26T00:00:00.000Z",
     "activeTime": null,
@@ -824,7 +824,7 @@
       }
     ],
     "description": null,
-    "link": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67857",
     "disabled": false,
     "timer": "2021-08-29T19:30:00.000Z",
     "activeTime": null,
@@ -912,7 +912,7 @@
       }
     ],
     "description": null,
-    "link": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67987",
     "disabled": false,
     "timer": "2021-08-26T19:30:00.000Z",
     "activeTime": null,
@@ -1479,7 +1479,7 @@
       }
     ],
     "description": null,
-    "link": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-80124",
     "disabled": false,
     "timer": "2021-08-24T21:00:00.000Z"
   },
@@ -4829,7 +4829,7 @@
   },
   {
     "id": 36,
-    "name": "Custom Black Dragon",
+    "name": "Enraged Dragons Hunt",
     "icon": "dragon_black",
     "eventType": 4,
     "times": [
@@ -4850,7 +4850,7 @@
       }
     ],
     "description": null,
-    "link": "/guides/red-dragons-keep",
+    "link": "https://na.archerage.to/forums/threads/game-event-enraged-dragons-hunt.9599/",
     "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
@@ -4944,7 +4944,7 @@
       }
     ],
     "description": null,
-    "link": "/guides/red-dragons-keep",
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-hasla-zombie-apocalypse.4536/",
     "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
@@ -4994,7 +4994,7 @@
       }
     ],
     "description": null,
-    "link": "/guides/red-dragons-keep",
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-the-merchants-day.8578/",
     "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
@@ -5042,7 +5042,7 @@
       }
     ],
     "description": null,
-    "link": "/guides/red-dragons-keep",
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-the-fishers-day.8577/",
     "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
@@ -5089,7 +5089,7 @@
       }
     ],
     "description": null,
-    "link": "/guides/red-dragons-keep",
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-treasures-hunter-day.8637/",
     "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
@@ -5153,7 +5153,7 @@
       }
     ],
     "description": null,
-    "link": "/guides/red-dragons-keep",
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-76568",
     "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
@@ -5217,7 +5217,7 @@
       }
     ],
     "description": null,
-    "link": "/guides/red-dragons-keep",
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-78715",
     "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
@@ -5281,7 +5281,7 @@
       }
     ],
     "description": null,
-    "link": "/guides/red-dragons-keep",
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/#post-76568",
     "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
@@ -5304,5 +5304,31 @@
       "endTime": "2021-08-25T00:30:00.000Z",
       "tomorrow": true
     }
+  },
+  {
+    "id": 45,
+    "name": "Rock'n'Scroll",
+    "icon": "dragon_red",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "144:00:00",
+        "gameTime": null,
+        "name": "Until June, 21st, 2022",
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/game-event-rocknscroll.10857/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
   }
 ]
