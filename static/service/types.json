@@ -58,8 +58,16 @@
   {
     "id": 8,
     "name": "Custom Events",
-    "icon": "war",
+    "icon": "exploration",
     "color": "CYAN",
+    "startMessage": "$0 has started.",
+    "reminderMessage": "$0 will start in $1."
+  },
+  {
+    "id": 9,
+    "name": "Forum Events",
+    "icon": "flag",
+    "color": "GREENFORUM",
     "startMessage": "$0 has started.",
     "reminderMessage": "$0 will start in $1."
   }

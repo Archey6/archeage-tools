@@ -4877,7 +4877,7 @@
   {
     "id": 37,
     "name": "Hasla Zombie Apocalypse",
-    "icon": "dragon_red",
+    "icon": "crimson_rift_zombie",
     "eventType": 2,
     "times": [
       {
@@ -4971,7 +4971,7 @@
   {
     "id": 39,
     "name": "The Merchants Day!",
-    "icon": "dragon_red",
+    "icon": "pack",
     "eventType": 8,
     "times": [
       {
@@ -5020,7 +5020,7 @@
   {
     "id": 40,
     "name": "The Fishers Day!",
-    "icon": "dragon_red",
+    "icon": "fish_fest",
     "eventType": 8,
     "times": [
       {
@@ -5068,7 +5068,7 @@
   {
     "id": 41,
     "name": "Treasures Hunter Day!",
-    "icon": "dragon_red",
+    "icon": "pouch",
     "eventType": 8,
     "times": [
       {
@@ -5115,7 +5115,7 @@
   {
     "id": 42,
     "name": "Sea Spirit General",
-    "icon": "dragon_red",
+    "icon": "boss_monster",
     "eventType": 4,
     "times": [
       {
@@ -5179,7 +5179,7 @@
   {
     "id": 43,
     "name": "Aragog",
-    "icon": "dragon_red",
+    "icon": "boss_monster",
     "eventType": 4,
     "times": [
       {
@@ -5243,7 +5243,7 @@
   {
     "id": 44,
     "name": "Harbinger",
-    "icon": "dragon_red",
+    "icon": "boss_monster",
     "eventType": 4,
     "times": [
       {
@@ -5307,7 +5307,7 @@
   {
     "id": 45,
     "name": "Rock'n'Scroll",
-    "icon": "dragon_red",
+    "icon": "ruby",
     "eventType": 8,
     "times": [
       {
@@ -5326,6 +5326,88 @@
     ],
     "description": null,
     "link": "https://na.archerage.to/forums/threads/game-event-rocknscroll.10857/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 46,
+    "name": "Mirage Isle Races",
+    "icon": "cart",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-mirage-isle-races.8506/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 47,
+    "name": "Advertise With Us!",
+    "icon": "event",
+    "eventType": 9,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": "Starting March, 31st, 2022",
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/forum-event-advertise-with-us.10697/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 48,
+    "name": "Art Competition",
+    "icon": "aria_concert",
+    "eventType": 9,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": "June, 5th - June, 25nd, 2022",
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/forum-event-art-competition.10843/",
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
