@@ -4878,7 +4878,7 @@
     "id": 37,
     "name": "Hasla Zombie Apocalypse",
     "icon": "dragon_red",
-    "eventType": 4,
+    "eventType": 2,
     "times": [
       {
         "region": "NA",
@@ -5309,7 +5309,7 @@
     "id": 45,
     "name": "Rock'n'Scroll",
     "icon": "dragon_red",
-    "eventType": 4,
+    "eventType": 8,
     "times": [
       {
         "region": "NA",
