@@ -271,7 +271,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "17:00:00",
+        "time": "16:00:00",
         "duration": "12:00:00",
         "gameTime": null,
         "name": null,
@@ -4876,14 +4876,14 @@
   },
   {
     "id": 37,
-    "name": "Hasla Zombies",
+    "name": "Hasla Zombie Apocalypse",
     "icon": "dragon_red",
     "eventType": 4,
     "times": [
       {
         "region": "NA",
         "time": "17:00:00",
-        "duration": "00:45:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -4904,7 +4904,27 @@
       {
         "region": "NA",
         "time": "00:00:00",
-        "duration": "00:45:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },{
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -5126,6 +5146,70 @@
         "days": [
           "THURSDAY",
           "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "Aragog",
+    "icon": "dragon_red",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "14:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "01:30:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "SATURDAY"
         ],
         "startTime": "2021-08-23T00:00:00.000Z",
         "endTime": "2021-08-23T00:30:00.000Z"
