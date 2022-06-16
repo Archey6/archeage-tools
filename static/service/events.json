@@ -4985,7 +4985,6 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
-          "THURSDAY",
           "FRIDAY",
           "SATURDAY"
         ],
