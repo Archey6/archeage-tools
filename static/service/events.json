@@ -1492,26 +1492,7 @@
       {
         "region": "NA",
         "time": "18:00:00",
-        "duration": "00:45:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY"
-        ],
-        "startTime": "2021-08-24T23:00:00.000Z",
-        "endTime": "2021-08-25T00:30:00.000Z"
-      },
-      {
-        "region": "NA",
-        "time": "12:00:00",
-        "duration": "00:30:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -1530,14 +1511,13 @@
       {
         "region": "NA",
         "time": "02:00:00",
-        "duration": "00:45:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
         "reminderTime": "00:15:00",
         "reminderMessage": null,
         "days": [
-
           "TUESDAY",
           "WEDNESDAY",
           "THURSDAY",
@@ -1549,24 +1529,8 @@
       },
       {
         "region": "NA",
-        "time": "10:00:00",
-        "duration": "00:45:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "SATURDAY",
-          "SUNDAY"
-        ],
-        "startTime": "2021-08-24T23:00:00.000Z",
-        "endTime": "2021-08-25T00:30:00.000Z"
-      },
-      {
-        "region": "NA",
         "time": "16:30:00",
-        "duration": "00:45:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -1582,7 +1546,7 @@
       {
         "region": "NA",
         "time": "02:30:00",
-        "duration": "00:45:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -1592,6 +1556,27 @@
 
           "SUNDAY",
           "MONDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
         ],
         "startTime": "2021-08-24T23:00:00.000Z",
         "endTime": "2021-08-25T00:30:00.000Z"
