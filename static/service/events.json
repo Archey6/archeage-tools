@@ -750,7 +750,7 @@
       {
         "region": "NA",
         "time": "22:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -765,7 +765,7 @@
       },{
         "region": "NA",
         "time": "14:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -779,7 +779,7 @@
       },{
         "region": "NA",
         "time": "13:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": "( 50% chance to spawn )",
         "startMessage": null,
