@@ -445,7 +445,7 @@
       {
         "region": "NA",
         "time": "01:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -458,7 +458,7 @@
       },{
         "region": "NA",
         "time": "01:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": "( 50% chance to spawn )",
         "startMessage": null,
@@ -471,7 +471,7 @@
       {
         "region": "EU",
         "time": "19:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -855,7 +855,7 @@
       {
         "region": "NA",
         "time": "00:00:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -869,7 +869,7 @@
       },{
         "region": "NA",
         "time": "01:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": "( 50% chance to spawn )",
         "startMessage": null,
