@@ -2893,7 +2893,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "23:00:00",
+        "time": "23:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2912,7 +2912,7 @@
       },
       {
         "region": "NA",
-        "time": "01:00:00",
+        "time": "01:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2931,7 +2931,7 @@
       },
       {
         "region": "NA",
-        "time": "03:00:00",
+        "time": "03:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2950,7 +2950,7 @@
       },
       {
         "region": "NA",
-        "time": "05:00:00",
+        "time": "05:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2969,7 +2969,7 @@
       },
       {
         "region": "NA",
-        "time": "07:00:00",
+        "time": "07:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -2988,7 +2988,7 @@
       },
       {
         "region": "NA",
-        "time": "09:00:00",
+        "time": "09:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3007,7 +3007,7 @@
       },
       {
         "region": "NA",
-        "time": "11:00:00",
+        "time": "11:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3026,7 +3026,7 @@
       },
       {
         "region": "NA",
-        "time": "12:00:00",
+        "time": "12:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3045,7 +3045,7 @@
       },
       {
         "region": "NA",
-        "time": "14:00:00",
+        "time": "14:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3064,7 +3064,7 @@
       },
       {
         "region": "NA",
-        "time": "17:00:00",
+        "time": "17:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3083,7 +3083,7 @@
       },
       {
         "region": "NA",
-        "time": "19:00:00",
+        "time": "19:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -3102,7 +3102,7 @@
       },
       {
         "region": "NA",
-        "time": "21:00:00",
+        "time": "21:10:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
