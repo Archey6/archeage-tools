@@ -778,7 +778,7 @@
         "endTime": "2021-08-24T20:30:00.000Z"
       },{
         "region": "NA",
-        "time": "13:30:00",
+        "time": "01:30:00",
         "duration": "02:00:00",
         "gameTime": null,
         "name": "( 50% chance to spawn )",
@@ -786,7 +786,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "THURSDAY"
+          "FRIDAY"
         ],
         "startTime": "2021-08-24T19:30:00.000Z",
         "endTime": "2021-08-24T20:30:00.000Z"
