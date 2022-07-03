@@ -5422,5 +5422,31 @@
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
+  },
+  {
+    "id": 50,
+    "name": "Fishing Tournament",
+    "icon": "fish_fest",
+    "eventType": 9,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "144:40:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(June, 21st - July, 4th, 2022)",
+    "link": "https://na.archerage.to/forums/threads/game-event-fishing-tournament-summer-2022.10872",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
   }
 ]
