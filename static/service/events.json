@@ -5419,7 +5419,7 @@
     ],
     "description": "(June, 21st - July, 4th, 2022)",
     "link": "https://na.archerage.to/forums/threads/game-event-ahnimar-founders-festival.9501/",
-    "disabled": false,
+    "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   },
