@@ -5448,5 +5448,185 @@
     "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
+  },
+  {
+  "id": 51,
+  "name": "Boss Waking Nightmare",
+  "icon": "boss_monster",
+  "eventType": 10,
+  "times": [
+    {
+      "region": "NA",
+      "time": "18:30:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2022-06-14T00:00:00.000Z",
+      "endTime": "2022-06-21T00:30:00.000Z"
+    },
+    {
+      "region": "NA",
+      "time": "02:30:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2022-06-14T00:00:00.000Z",
+      "endTime": "2022-06-21T00:30:00.000Z"
+    }
+  ],
+  "description": "Waking Nightmare",
+  "link": "https://na.archerage.to/forums/threads/new-zone-wonderland.10685/post-85417",
+  "disabled": false,
+  "timer": "2022-06-21T00:00:00.000Z",
+  "activeTime": true
+},
+  {
+    "id": 52,
+    "name": "Wonderland Treasure",
+    "icon": "event",
+    "eventType": 10,
+    "times": [
+      {
+        "region": "NA",
+        "time": "23:30:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "Waking Nightmare",
+    "link": "https://na.archerage.to/forums/threads/new-zone-wonderland.10685/post-85417",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 53,
+    "name": "Miraculous Races",
+    "icon": "event",
+    "eventType": 10,
+    "times": [
+      {
+        "region": "NA",
+        "time": "07:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "13:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "Waking Nightmare",
+    "link": "https://na.archerage.to/forums/threads/new-zone-wonderland.10685/post-85417",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
   }
 ]

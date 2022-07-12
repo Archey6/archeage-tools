@@ -70,5 +70,13 @@
     "color": "GREENFORUM",
     "startMessage": "$0 has started.",
     "reminderMessage": "$0 will start in $1."
+  },
+  {
+    "id": 10,
+    "name": "Wonderland",
+    "icon": "flag",
+    "color": "GREENFORUM",
+    "startMessage": "$0 has started.",
+    "reminderMessage": "$0 will start in $1."
   }
 ]
