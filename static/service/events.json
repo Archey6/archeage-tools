@@ -5628,5 +5628,108 @@
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
+  },
+  {
+    "id": 54,
+    "name": "Backgrounds Battle",
+    "icon": "event",
+    "eventType": 9,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "144:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "Last day of the event – August, 2nd",
+    "link": "https://na.archerage.to/forums/threads/forum-event-backgrounds-battle.10886/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 55,
+    "name": "Rum Runner Rapids Surin and Farmer",
+    "icon": "other",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "16:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "A Lack of Melons and Aerial Delivery",
+    "link": "https://na.archerage.to/forums/threads/game-event-rum-runner-rapids.6455/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
   }
 ]
