@@ -5652,7 +5652,7 @@
     ],
     "description": "Last day of the event – August, 2nd",
     "link": "https://na.archerage.to/forums/threads/forum-event-backgrounds-battle.10886/",
-    "disabled": false,
+    "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   },
