@@ -5631,7 +5631,7 @@
   },
   {
     "id": 54,
-    "name": "Backgrounds Battle",
+    "name": "Summertime Madness",
     "icon": "event",
     "eventType": 9,
     "times": [
@@ -5650,8 +5650,8 @@
         "endTime": "2022-06-21T00:30:00.000Z"
       }
     ],
-    "description": "Last day of the event – August, 2nd",
-    "link": "https://na.archerage.to/forums/threads/forum-event-backgrounds-battle.10886/",
+    "description": "Last day of the event – August, 27th",
+    "link": "https://na.archerage.to/forums/threads/forum-event-summertime-madness-handmade-contest.10909/",
     "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
