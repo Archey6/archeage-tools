@@ -5728,6 +5728,82 @@
     ],
     "description": "A Lack of Melons and Aerial Delivery",
     "link": "https://na.archerage.to/forums/threads/game-event-rum-runner-rapids.6455/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 56,
+    "name": "Giant Blueglass Monster",
+    "icon": "other",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "03:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(August, 9th - August, 22nd, 2022)",
+    "link": "https://na.archerage.to/forums/threads/game-event-blue-salt-festival.5682/",
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
