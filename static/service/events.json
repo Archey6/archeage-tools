@@ -1239,8 +1239,8 @@
     "times": [
       {
         "region": "NA",
-        "time": "00:00:00",
-        "duration": "20:00:00",
+        "time": "04:00:00",
+        "duration": "24:00:00",
         "gameTime": null,
         "name": "Supply Transport",
         "startMessage": "Castle supply transportation is now available.",
@@ -5521,6 +5521,21 @@
         "reminderMessage": null,
         "days": [
           "SATURDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "20:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY"
         ],
         "startTime": "2022-06-14T00:00:00.000Z",
         "endTime": "2022-06-21T00:30:00.000Z"
