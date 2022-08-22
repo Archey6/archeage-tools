@@ -5822,5 +5822,130 @@
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
+  },
+  {
+    "id": 57,
+    "name": "Titan’s Followers",
+    "icon": "crimson_rift_titan",
+    "eventType": 2,
+    "times": [
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "08:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "11:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "14:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "17:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "20:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(August, 23rd - September, 19th, 2022)",
+    "link": "https://na.archerage.to/forums/threads/game-event-titans-attack.7777/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
   }
 ]
