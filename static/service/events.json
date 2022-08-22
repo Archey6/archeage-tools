@@ -5947,5 +5947,50 @@
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
+  },
+  {
+    "id": 58,
+    "name": "Titan Crow Sealing",
+    "icon": "boss_monster_titan",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "THURSDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(August, 23rd - September, 19th, 2022)",
+    "link": "https://na.archerage.to/forums/threads/game-event-titans-attack.7777/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
   }
 ]
