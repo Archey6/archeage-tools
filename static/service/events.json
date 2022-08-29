@@ -5542,7 +5542,7 @@
     ],
     "description": "Last day of the event – August, 27th",
     "link": "https://na.archerage.to/forums/threads/forum-event-summertime-madness-handmade-contest.10909/",
-    "disabled": false,
+    "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   },
