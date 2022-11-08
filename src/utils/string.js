@@ -15,9 +15,9 @@ export const getNavId = (path) => path && path.substr(1).replace('/', '_');
 
 export const setTitle = (title) => {
   if (title) {
-    document.title = `${title} - ArcheAge Tools`;
+    document.title = `${title} - ArcheRage Tools`;
   } else {
-    document.title = 'ArcheAge Tools';
+    document.title = 'ArcheRage Tools';
   }
 };
 
