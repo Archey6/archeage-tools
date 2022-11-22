@@ -381,20 +381,6 @@
         ],
         "startTime": "2021-08-24T19:30:00.000Z",
         "endTime": "2021-08-24T20:30:00.000Z"
-      },{
-        "region": "NA",
-        "time": "02:30:00",
-        "duration": "02:00:00",
-        "gameTime": null,
-        "name": "( 50% chance to spawn )",
-        "startMessage": null,
-        "reminderTime": "00:30:00",
-        "reminderMessage": null,
-        "days": [
-          "FRIDAY"
-        ],
-        "startTime": "2021-08-24T19:30:00.000Z",
-        "endTime": "2021-08-24T20:30:00.000Z"
       },
       {
         "region": "EU",
@@ -454,18 +440,6 @@
         "days": [
           "MONDAY",
           "FRIDAY"
-        ]
-      },{
-        "region": "NA",
-        "time": "02:30:00",
-        "duration": "02:00:00",
-        "gameTime": null,
-        "name": "( 50% chance to spawn )",
-        "startMessage": null,
-        "reminderTime": "00:30:00",
-        "reminderMessage": null,
-        "days": [
-          "WEDNESDAY"
         ]
       },
       {
@@ -776,20 +750,6 @@
         ],
         "startTime": "2021-08-24T19:30:00.000Z",
         "endTime": "2021-08-24T20:30:00.000Z"
-      },{
-        "region": "NA",
-        "time": "02:30:00",
-        "duration": "02:00:00",
-        "gameTime": null,
-        "name": "( 50% chance to spawn )",
-        "startMessage": null,
-        "reminderTime": "00:30:00",
-        "reminderMessage": null,
-        "days": [
-          "FRIDAY"
-        ],
-        "startTime": "2021-08-24T19:30:00.000Z",
-        "endTime": "2021-08-24T20:30:00.000Z"
       },
       {
         "region": "EU",
@@ -865,18 +825,6 @@
           "TUESDAY",
           "THURSDAY",
           "SATURDAY"
-        ]
-      },{
-        "region": "NA",
-        "time": "02:30:00",
-        "duration": "04:00:00",
-        "gameTime": null,
-        "name": "( 50% chance to spawn )",
-        "startMessage": null,
-        "reminderTime": "00:30:00",
-        "reminderMessage": null,
-        "days": [
-          "WEDNESDAY"
         ]
       },
       {
