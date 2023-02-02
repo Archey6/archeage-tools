@@ -4711,7 +4711,7 @@
       },
       {
         "region": "NA",
-        "time": "01:00:00",
+        "time": "00:00:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -4731,7 +4731,7 @@
         "endTime": "2021-08-23T00:30:00.000Z"
       },{
         "region": "NA",
-        "time": "02:00:00",
+        "time": "01:00:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
