@@ -5831,5 +5831,102 @@
     "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
+  },
+  {
+    "id": 59,
+    "name": "Dragons Festival",
+    "icon": "dragon_green",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Dragons Festival have started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Dragons Festival will awaken in the Ahnimar in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Dragons Festival have started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Dragons Festival will awaken in the Ahnimar in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Dragons Festival have started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Dragons Festival will awaken in the Ahnimar in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      }
+    ],
+    "description": "(March, 7th - March, 27th, 2023)",
+    "link": "https://na.archerage.to/forums/threads/festival-dragons-festival.8079/",
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z",
+    "nextTime": {
+      "region": "NA",
+      "time": "21:00:00",
+      "duration": "01:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": "The Lusca have awoken in the Sea of Graves.",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Lusca will awaken in the Sea of Graves in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T20:00:00.000Z",
+      "endTime": "2021-08-25T21:00:00.000Z",
+      "tomorrow": true
+    }
   }
 ]
