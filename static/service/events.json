@@ -5140,7 +5140,7 @@
   },
   {
     "id": 46,
-    "name": "Mirage Isle Races",
+    "name": "Wonderland Races",
     "icon": "cart",
     "eventType": 8,
     "times": [
@@ -5161,7 +5161,7 @@
       }
     ],
     "description": null,
-    "link": "https://na.archerage.to/forums/index.php?threads/game-event-mirage-isle-races.8506/",
+    "link": "https://na.archerage.to/forums/threads/game-event-wonderland-races.11055/",
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": false
@@ -5928,5 +5928,33 @@
       "endTime": "2021-08-25T21:00:00.000Z",
       "tomorrow": true
     }
+  },
+  {
+    "id": 60,
+    "name": "Gladiator Death Match Tournament",
+    "icon": "mistmerrow",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "20:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/gladiator-death-match-tournament-revamp.10974/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": false
   }
 ]
