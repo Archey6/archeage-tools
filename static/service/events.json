@@ -5956,5 +5956,165 @@
     "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": false
+  },{
+  "id": 61,
+  "name": "Language Instructor",
+  "icon": "aria_concert",
+  "eventType": 6,
+  "times": [
+    {
+      "region": null,
+      "time": "00:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T00:20:00.000Z",
+      "endTime": "2021-08-24T00:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "04:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T04:20:00.000Z",
+      "endTime": "2021-08-24T04:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "08:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T08:20:00.000Z",
+      "endTime": "2021-08-24T08:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "12:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T12:20:00.000Z",
+      "endTime": "2021-08-24T12:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "16:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T16:20:00.000Z",
+      "endTime": "2021-08-24T16:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "20:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T20:20:00.000Z",
+      "endTime": "2021-08-24T20:30:00.000Z"
+    }
+  ],
+  "description": null,
+  "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=567381029",
+  "disabled": false,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null,
+  "nextTime": {
+    "region": null,
+    "time": "00:00:00",
+    "duration": "01:30:00",
+    "gameTime": "10:00:00",
+    "name": "",
+    "startMessage": "The Language Instructor",
+    "reminderTime": "00:15:00",
+    "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+    "days": [
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY",
+      "SATURDAY",
+      "SUNDAY"
+    ],
+    "startTime": "2021-08-25T00:20:00.000Z",
+    "endTime": "2021-08-25T00:30:00.000Z",
+    "tomorrow": true
   }
+}
 ]
