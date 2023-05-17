@@ -6125,7 +6125,7 @@
     {
       "region": null,
       "time": "12:30:00",
-      "duration": "1:00:00",
+      "duration": "00:40:00",
       "gameTime": null,
       "name": "",
       "startMessage": "The Akasch Invasion",
@@ -6142,7 +6142,7 @@
     {
       "region": null,
       "time": "20:30:00",
-      "duration": "1:00:00",
+      "duration": "00:40:00",
       "gameTime": null,
       "name": "",
       "startMessage": "The Akasch Invasion",
@@ -6159,7 +6159,7 @@
     {
       "region": null,
       "time": "01:30:00",
-      "duration": "01:30:00",
+      "duration": "00:40:00",
       "gameTime": null,
       "name": "",
       "startMessage": "The Language Instructor",
@@ -6182,7 +6182,7 @@
   "nextTime": {
     "region": null,
     "time": "00:00:00",
-    "duration": "01:30:00",
+    "duration": "00:40:00",
     "gameTime": "10:00:00",
     "name": "",
     "startMessage": "The Akasch Invasion",
@@ -6190,12 +6190,8 @@
     "reminderMessage": "The Akasch Invasion be opening in Nuia and Haranya in $1.",
     "days": [
       "MONDAY",
-      "TUESDAY",
       "WEDNESDAY",
-      "THURSDAY",
-      "FRIDAY",
-      "SATURDAY",
-      "SUNDAY"
+      "SATURDAY"
     ],
     "startTime": "2021-08-25T00:20:00.000Z",
     "endTime": "2021-08-25T00:30:00.000Z",
