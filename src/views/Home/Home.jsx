@@ -34,23 +34,11 @@ class Home extends Component {
 
   state = {
       posts: [{"id":  1,
-               "title":  "Welcome to ArcheRage!",
-               "body":  "The official Mokulu is no longer up, "+
-               "but he left a big part of his legacy available, which is very good! \n\n " +
-               "As our server has customized events I decided to invest a part of my time "+
-               "to facilitate the daily life of the new players that i am also a part of.\n\n"+
-               "\n\n"+
-               "The idea is to make the schedules part work, i have no experience with react, "+
-               "and by the way it took me a while to upload this to heroku. "+
-               "My job now is to map event times.\n\n" +
-
-               "I'll be honest, I'm doing something very basic, but if you still like it "+
-               "and it's useful, I invite you to <b>donate</b> ❤ thanks!\n"+
-                   "Made by Mokulu and reused by ' <b>Dyani</b> ' ( in game nick ) 🐱 " +
-               "Forgive me for my basic english of 'google translator'...\n\n\n\n"+
-               "<img src='https://github.com/fernandogfo/archeage-tools/blob/data/static/images/leprechaun.png?raw=true'>",
-               "author":  "Dyani",
-               "createDate":  "06/10/2022",
+               "title":  "Welcome to ArcheRage Tools!",
+               "body":  "This is a rehost of Dyani's fork of mokulu's Archeage tools project, all credits to them\n\n\n<b>PAY YOUR TAXES LOSERS</b>"+
+               "\n<img src='https://i.imgur.com/gd5aZ0U.png' width='750' height='350'>",
+               "author":  "Archey",
+               "createDate":  "8/13/2023",
                "editDate":  "",
                "comments":  "teste",
                "commentCount":  0,
