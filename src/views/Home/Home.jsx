@@ -34,7 +34,7 @@ class Home extends Component {
 
   state = {
       posts: [{"id":  1,
-               "title":  "Welcome to ArcheRage Tools!",
+               "title":  "Welcome to ArcheRage Tools",
                "body":  "This is a rehost of Dyani's fork of mokulu's Archeage tools project, all credits to them\n\n\n<b>PAY YOUR TAXES LOSERS</b>"+
                "\n<img src='https://i.imgur.com/gd5aZ0U.png' width='750' height='350'> <img src='https://i.imgur.com/EiAgQqY.png'>",
                "author":  "Archey",
