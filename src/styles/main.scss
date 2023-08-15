@@ -5,7 +5,8 @@ $layoutWidth: 1200px;
 /** HTML and body */
 html {
   font-size: 100%;
-  background: url(../images/background.png) no-repeat fixed center bottom;
+  background: url(../images/background.png) no-repeat;
+  background-size:cover;
   font-family: "Helvetica", "Arial", sans-serif !important;
   min-height: 100%;
 }
