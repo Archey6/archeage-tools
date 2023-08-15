@@ -147,7 +147,7 @@
     ],
     "description": "Weekly quests and ArchePass missions reset.",
     "link": null,
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-30T00:00:00.000Z",
     "activeTime": null,
     "nextTime": {
@@ -172,6 +172,7 @@
     "name": "Abyssal Attack",
     "icon": "abyssal_attack",
     "eventType": 5,
+	"disabled": true,
     "times": [
       {
         "region": "NA",
