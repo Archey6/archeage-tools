@@ -24,14 +24,6 @@
     "reminderMessage": "$0 will spawn in $1."
   },
   {
-  "id": 4,
-  "name": "Custom Boss",
-  "icon": "boss",
-  "color": "DEEPPURPLE",
-  "startMessage": "$0 has started.",
-  "reminderMessage": "$0 will start in $1."
-  },
-  {
     "id": 5,
     "name": "PvP Events",
     "icon": "pvp",
@@ -62,21 +54,4 @@
     "color": "CYAN",
     "startMessage": "$0 has started.",
     "reminderMessage": "$0 will start in $1."
-  },
-  {
-    "id": 9,
-    "name": "Forum Events",
-    "icon": "flag",
-    "color": "GREENFORUM",
-    "startMessage": "$0 has started.",
-    "reminderMessage": "$0 will start in $1."
-  },
-  {
-    "id": 10,
-    "name": "Wonderland",
-    "icon": "flag",
-    "color": "GREENFORUM",
-    "startMessage": "$0 has started.",
-    "reminderMessage": "$0 will start in $1."
   }
-]
