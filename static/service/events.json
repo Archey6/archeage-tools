@@ -172,7 +172,6 @@
     "name": "Abyssal Attack",
     "icon": "abyssal_attack",
     "eventType": 5,
-	"disabled": true,
     "times": [
       {
         "region": "NA",
@@ -243,7 +242,7 @@
     ],
     "description": null,
     "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67858",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-24T21:29:00.000Z",
     "nextTime": {
       "region": "EU",
