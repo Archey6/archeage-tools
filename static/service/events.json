@@ -1006,7 +1006,7 @@
     ],
     "description": null,
     "link": "/guides/honor-dailies#lusca-awakening",
-    "disabled": trrue,
+    "disabled": true,
     "timer": "2021-08-24T21:00:00.000Z",
     "nextTime": {
       "region": "NA",
