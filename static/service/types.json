@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Instances",
-    "icon": "instance",
-    "color": "RED",
-    "startMessage": "$0 is now available for $1.",
-    "reminderMessage": "$0 will be available in $1 for $2."
-  },
-  {
     "id": 2,
     "name": "Rifts",
     "icon": "torch",
@@ -46,13 +38,5 @@
     "color": "ORANGE",
     "startMessage": "$0 has fallen into a state of war for $2.",
     "reminderMessage": "$0 will fall into a state of war in $1."
-  },
-  {
-    "id": 8,
-    "name": "Custom Events",
-    "icon": "exploration",
-    "color": "CYAN",
-    "startMessage": "$0 has started.",
-    "reminderMessage": "$0 will start in $1."
   }
 ]
