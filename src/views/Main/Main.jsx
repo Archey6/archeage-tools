@@ -148,7 +148,7 @@ class Main extends React.PureComponent {
                 <RouterLink id="logo-icon" to="/" />
               </IconButton>
               <Typography variant="h6" className="title title-text">
-                ArcheRage Tools
+                AA Classic Tools
               </Typography>
 
               <Navigation />
@@ -160,7 +160,7 @@ class Main extends React.PureComponent {
           <footer className="site-footer">
             <div className="inner-wrapper">
               {/* eslint-disable-next-line no-undef */}
-              <Typography className="title-text">ArcheRage Tools v{__VERSION__}</Typography>
+              <Typography className="title-text">AA Classic Tools v{__VERSION__}</Typography>
               <Link href="https://www.mokulu.io/privacy-policy" color="inherit" target="_blank">
                 <Typography>Privacy Policy</Typography>
               </Link>
