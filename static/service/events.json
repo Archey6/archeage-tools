@@ -460,7 +460,7 @@
       }
     ],
     "description": null,
-    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-84819",
+    "link": "https://forum.aa-classic.com/index.php?threads/announcement-content-calendar-boss-and-event-timers.99/",
     "disabled": true,
     "timer": "2021-08-26T19:30:00.000Z",
     "activeTime": null,
@@ -567,7 +567,7 @@
       }
     ],
     "description": null,
-    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67882",
+    "link": "https://forum.aa-classic.com/index.php?threads/announcement-content-calendar-boss-and-event-timers.99/",
     "disabled": false,
     "timer": "2021-08-24T20:45:00.000Z",
     "nextTime": {
@@ -709,7 +709,7 @@
       }
     ],
     "description": null,
-    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67877",
+    "link": "https://forum.aa-classic.com/index.php?threads/announcement-content-calendar-boss-and-event-timers.99/",
     "disabled": true,
     "timer": "2021-08-26T00:00:00.000Z",
     "activeTime": null,
@@ -741,69 +741,85 @@
     "times": [
       {
         "region": "NA",
-        "time": "22:30:00",
-        "duration": "01:00:00",
+        "time": "16:30:00",
+        "duration": "03:00:00",
         "gameTime": null,
         "name": null,
-        "startMessage": null,
+        "startMessage": "$0 have spawned.",
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "TUESDAY",
-          "SATURDAY"
-        ],
-        "startTime": "2021-08-24T19:30:00.000Z",
-        "endTime": "2021-08-24T20:30:00.000Z"
+          "MONDAY"
+        ]
       },{
         "region": "NA",
-        "time": "14:30:00",
-        "duration": "01:00:00",
+        "time": "01:30:00",
+        "duration": "03:00:00",
         "gameTime": null,
         "name": null,
-        "startMessage": null,
+        "startMessage": "$0 have spawned.",
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "SUNDAY"
-        ],
-        "startTime": "2021-08-24T19:30:00.000Z",
-        "endTime": "2021-08-24T20:30:00.000Z"
+          "THURSDAY"
+        ]
+      },{
+        "region": "NA",
+        "time": "20:30:00",
+        "duration": "03:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ]
       },
       {
         "region": "EU",
-        "time": "19:30:00",
+        "time": "19:45:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
-        "startMessage": null,
+        "startMessage": "$0 have spawned.",
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "SUNDAY",
-          "TUESDAY"
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
         ],
-        "startTime": "2021-08-24T19:30:00.000Z",
-        "endTime": "2021-08-24T20:30:00.000Z"
+        "startTime": "2021-08-24T19:45:00.000Z",
+        "endTime": "2021-08-24T20:45:00.000Z"
       },
       {
         "region": "SEA",
-        "time": "13:35:00",
+        "time": "13:45:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
+          "MONDAY",
           "TUESDAY",
+          "WEDNESDAY",
           "THURSDAY",
-          "SATURDAY"
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
         ]
       }
     ],
     "description": null,
-    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67857",
-    "disabled": true,
+    "link": "https://forum.aa-classic.com/index.php?threads/announcement-content-calendar-boss-and-event-timers.99/",
+    "disabled": false,
     "timer": "2021-08-29T19:30:00.000Z",
     "activeTime": null,
     "nextTime": {
