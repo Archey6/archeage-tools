@@ -401,7 +401,7 @@
     ],
     "description": null,
     "link": "https://forum.aa-classic.com/index.php?threads/announcement-content-calendar-boss-and-event-timers.99/",
-    "disabled": true,
+    "disabled": false,
     "timer": "2021-08-29T19:30:00.000Z",
     "activeTime": null,
     "nextTime": {
