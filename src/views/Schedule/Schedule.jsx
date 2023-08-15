@@ -423,7 +423,7 @@ class Schedule extends Component {
 		  {/*<Alert severity="warning" variant="filled">
               <AlertTitle>DNS UPDATE</AlertTitle>
               <p style={{fontSize: '1.5rem'}}>
-                Archeage tools DNS UPDATE TO  <span style={{fontWeight: 'bold'}}><a href="https://www.artools.archey.ca" > https://www.artools.archey.ca</a></span>
+                Archeage tools DNS UPDATE TO <span style={{fontWeight: 'bold'}}><a href="https://www.artools.archey.ca" > https://www.artools.archey.ca</a></span>
               </p>
 		  </Alert>*/}
           </AppBar>
