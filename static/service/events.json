@@ -498,7 +498,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "MONDAY",
+          "MONDAY"
         ]
       },{
         "region": "NA",
@@ -510,7 +510,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "THURSDAY",
+          "THURSDAY"
         ]
       },{
         "region": "NA",
@@ -522,7 +522,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "SATURDAY",
+          "SATURDAY"
         ]
       },
       {
