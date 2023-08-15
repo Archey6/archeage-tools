@@ -490,7 +490,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "19:30:00",
+        "time": "17:30:00",
         "duration": "03:00:00",
         "gameTime": null,
         "name": null,
@@ -503,7 +503,7 @@
       },{
         "region": "NA",
         "time": "03:30:00",
-        "duration": "03:00:00",
+        "duration": "01:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": "$0 have spawned.",
@@ -514,7 +514,7 @@
         ]
       },{
         "region": "NA",
-        "time": "22:30:00",
+        "time": "20:30:00",
         "duration": "03:00:00",
         "gameTime": null,
         "name": null,
