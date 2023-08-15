@@ -803,7 +803,7 @@
     ],
     "description": null,
     "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67857",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-29T19:30:00.000Z",
     "activeTime": null,
     "nextTime": {
