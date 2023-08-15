@@ -313,7 +313,7 @@
     ],
     "description": "The fishing contest in Mirage is open to everyone for most of the day on Saturday.",
     "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-69080",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-28T10:00:00.000Z",
     "activeTime": null,
     "nextTime": {
@@ -401,7 +401,7 @@
     ],
     "description": null,
     "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-80914",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-29T19:30:00.000Z",
     "activeTime": null,
     "nextTime": {
@@ -461,7 +461,7 @@
     ],
     "description": null,
     "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-84819",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-26T19:30:00.000Z",
     "activeTime": null,
     "nextTime": {
@@ -490,8 +490,8 @@
     "times": [
       {
         "region": "NA",
-        "time": "00:15:00",
-        "duration": "01:00:00",
+        "time": "17:30:00",
+        "duration": "03:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": "$0 have spawned.",
@@ -499,12 +499,30 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
+        ]
+      },{
+        "region": "NA",
+        "time": "03:30:00",
+        "duration": "03:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
           "THURSDAY",
-          "FRIDAY",
+        ]
+      },{
+        "region": "NA",
+        "time": "22:30:00",
+        "duration": "03:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
           "SATURDAY",
-          "SUNDAY"
         ]
       },
       {
@@ -692,7 +710,7 @@
     ],
     "description": null,
     "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67877",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-26T00:00:00.000Z",
     "activeTime": null,
     "nextTime": {
