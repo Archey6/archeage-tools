@@ -735,13 +735,13 @@
   },
   {
     "id": 9,
-    "name": "KrakenTEST",
+    "name": "Kraken",
     "icon": "kraken",
     "eventType": 3,
     "times": [
       {
         "region": "NA",
-        "time": "03:30:00",
+        "time": "16:30:00",
         "duration": "03:00:00",
         "gameTime": null,
         "name": null,
@@ -749,7 +749,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "WEDNESDAY"
+          "MONDAY"
         ]
       },{
         "region": "NA",
