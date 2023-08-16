@@ -2738,7 +2738,7 @@
     ],
     "description": "Diamond Shores enters war four times per day.",
     "link": null,
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-24T23:00:00.000Z",
     "activeTime": null
   },
@@ -6240,6 +6240,24 @@
     {
       "region": "NA",
       "time": "16:30:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Golden Plains",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Golden Plains battle begins in  $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
+    },{
+      "region": "NA",
+      "time": "03:30:00",
       "duration": "00:00:00",
       "gameTime": null,
       "name": "",
