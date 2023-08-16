@@ -6333,7 +6333,7 @@
   "id": 65,
   "name": "Mistmerrow",
   "icon": "mistmerrow",
-  "eventType": 6,
+  "eventType": 7,
   "times": [
     {
       "region": "NA",
