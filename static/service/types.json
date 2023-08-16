@@ -14,6 +14,13 @@
     "color": "BLUE",
     "startMessage": "$0 has spawned.",
     "reminderMessage": "$0 will spawn in $1."
+  },{
+    "id": 5,
+    "name": "PvP Events",
+    "icon": "pvp",
+    "color": "GOLD",
+    "startMessage": "$0 has started.",
+    "reminderMessage": "$0 will start in $1."
   },
   {
     "id": 6,

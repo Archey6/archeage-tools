@@ -6355,6 +6355,24 @@
       ]
     },{
       "region": "NA",
+      "time": "14:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Mistmerrow",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Mistmerrow begins in $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
+    },{
+      "region": "NA",
       "time": "01:00:00",
       "duration": "00:30:00",
       "gameTime": null,
@@ -6362,6 +6380,55 @@
       "startMessage": "Mistmerrow",
       "reminderTime": "00:15:00",
       "reminderMessage": "Mistmerrow begins in $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
+    }
+  ],
+  "description": null,
+  "link": "https://na.archerage.to/forums/threads/archerage-7-5-global-update-akasch-invasion-patch-notes.11219/#post-88317",
+  "disabled": false,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null
+},{
+  "id": 66,
+  "name": "Ocleera",
+  "icon": "ocleera",
+  "eventType": 7,
+  "times": [
+    {
+      "region": "NA",
+      "time": "14:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Ocleera Rift",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Ocleera Rift begins in $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
+    },{
+      "region": "NA",
+      "time": "03:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Ocleera Rift",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Ocleera Rift begins in $1.",
       "days": [
         "MONDAY",
 		"TUESDAY",
