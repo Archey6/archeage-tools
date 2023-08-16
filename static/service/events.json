@@ -6476,5 +6476,43 @@
   "disabled": false,
   "timer": "2021-08-25T00:20:00.000Z",
   "activeTime": null
+},{
+  "id": 68,
+  "name": "Abyssal Attack",
+  "icon": "abyssal_attack",
+  "eventType": 5,
+  "times": [
+    {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Abyssal Attack",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Abyssal Attack begins in $1.",
+      "days": [
+        "TUESDAY",
+		"THURSDAY"
+      ]
+    },{
+      "region": "NA",
+      "time": "20:00:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Abyssal Attack",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Abyssal Attack begins in $1.",
+      "days": [
+        "SATURDAY"
+      ]
+    }
+  ],
+  "description": null,
+  "link": "https://na.archerage.to/forums/threads/archerage-7-5-global-update-akasch-invasion-patch-notes.11219/#post-88317",
+  "disabled": false,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null
 }
 ]
