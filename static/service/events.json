@@ -757,24 +757,7 @@
     "link": "https://forum.aa-classic.com/index.php?threads/announcement-content-calendar-boss-and-event-timers.99/",
     "disabled": false,
     "timer": "2021-08-29T19:30:00.000Z",
-    "activeTime": null,
-    "nextTime": {
-      "region": "EU",
-      "time": "19:30:00",
-      "duration": "01:00:00",
-      "gameTime": null,
-      "name": null,
-      "startMessage": null,
-      "reminderTime": "00:30:00",
-      "reminderMessage": null,
-      "days": [
-        "SUNDAY",
-        "TUESDAY"
-      ],
-      "startTime": "2021-08-29T19:30:00.000Z",
-      "endTime": "2021-08-29T20:30:00.000Z",
-      "tomorrow": true
-    }
+    "activeTime": null
   },
   {
     "id": 10,
