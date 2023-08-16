@@ -6400,7 +6400,7 @@
   "id": 66,
   "name": "Ocleera",
   "icon": "ocleera",
-  "eventType": 7,
+  "eventType": 2,
   "times": [
     {
       "region": "NA",
@@ -6429,6 +6429,37 @@
       "startMessage": "Ocleera Rift",
       "reminderTime": "00:15:00",
       "reminderMessage": "Ocleera Rift begins in $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
+    }
+  ],
+  "description": null,
+  "link": "https://na.archerage.to/forums/threads/archerage-7-5-global-update-akasch-invasion-patch-notes.11219/#post-88317",
+  "disabled": false,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null
+},{
+  "id": 67,
+  "name": "Lusca Awakening",
+  "icon": "lusca_awakening",
+  "eventType": 5,
+  "times": [
+    {
+      "region": "NA",
+      "time": "14:00:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Ocleera Rift",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Luscas Awakening begins in $1.",
       "days": [
         "MONDAY",
 		"TUESDAY",
