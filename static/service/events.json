@@ -741,7 +741,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "16:30:00",
+        "time": "04:30:00",
         "duration": "03:00:00",
         "gameTime": null,
         "name": null,
@@ -749,7 +749,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": null,
         "days": [
-          "MONDAY"
+          "WEDNESDAY"
         ]
       },{
         "region": "NA",
