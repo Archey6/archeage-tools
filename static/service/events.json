@@ -735,7 +735,7 @@
   },
   {
     "id": 9,
-    "name": "Kraken",
+    "name": "KrakenTEST",
     "icon": "kraken",
     "eventType": 3,
     "times": [
