@@ -6492,8 +6492,8 @@
       "reminderTime": "00:15:00",
       "reminderMessage": "Abyssal Attack begins in $1.",
       "days": [
-        "TUESDAY",
-		"THURSDAY"
+        "MONDAY",
+		"WEDNESDAY"
       ]
     },{
       "region": "NA",
