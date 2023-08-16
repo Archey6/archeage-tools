@@ -399,7 +399,7 @@ class Schedule extends Component {
 
     // add the cargo ship timer
     const eventTypeList = Object.values(eventTypes);
-    eventTypeList.push({ id: CARGO_ID, name: 'Cargo Ship', icon: 'exploration' });
+    {/*eventTypeList.push({ id: CARGO_ID, name: 'Cargo Ship', icon: 'exploration' });*/}
 
     // max cols = 3
     // min cols = 1
