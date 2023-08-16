@@ -6234,7 +6234,7 @@
 },{
   "id": 63,
   "name": "Golden Plains",
-  "icon": "camp3",
+  "icon": "goldplain",
   "eventType": 7,
   "times": [
     {
@@ -6313,6 +6313,55 @@
       "startMessage": "Gold Trader",
       "reminderTime": "00:15:00",
       "reminderMessage": "Gold Trader appears on Freedich Island in $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
+    }
+  ],
+  "description": null,
+  "link": "https://na.archerage.to/forums/threads/archerage-7-5-global-update-akasch-invasion-patch-notes.11219/#post-88317",
+  "disabled": false,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null
+},{
+  "id": 65,
+  "name": "Mistmerrow",
+  "icon": "mistmerrow",
+  "eventType": 6,
+  "times": [
+    {
+      "region": "NA",
+      "time": "19:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Mistmerrow",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Mistmerrow begins in $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
+    },{
+      "region": "NA",
+      "time": "01:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Mistmerrow",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Mistmerrow begins in $1.",
       "days": [
         "MONDAY",
 		"TUESDAY",
