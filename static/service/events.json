@@ -6231,5 +6231,36 @@
     "endTime": "2021-08-25T00:30:00.000Z",
     "tomorrow": true
   }
+},{
+  "id": 63,
+  "name": "Golden Plains",
+  "icon": "camp3",
+  "eventType": 7,
+  "times": [
+    {
+      "region": "NA",
+      "time": "16:30:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Golden Plains",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Golden Plains battle begins in  $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
+    }
+  ],
+  "description": null,
+  "link": "https://na.archerage.to/forums/threads/archerage-7-5-global-update-akasch-invasion-patch-notes.11219/#post-88317",
+  "disabled": true,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null
 }
 ]
