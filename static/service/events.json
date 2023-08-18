@@ -2738,7 +2738,7 @@
     ],
     "description": "Diamond Shores enters war four times per day.",
     "link": null,
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-24T23:00:00.000Z",
     "activeTime": null
   },
