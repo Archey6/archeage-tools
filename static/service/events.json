@@ -6273,6 +6273,24 @@
         "SATURDAY",
 		"SUNDAY"
       ]
+    },{
+      "region": "NA",
+      "time": "08:30:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Golden Plains",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Golden Plains battle begins in  $1.",
+      "days": [
+        "MONDAY",
+		"TUESDAY",
+        "WEDNESDAY",
+		"THURSDAY",
+		"FRIDAY",
+        "SATURDAY",
+		"SUNDAY"
+      ]
     }
   ],
   "description": null,
