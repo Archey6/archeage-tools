@@ -6503,7 +6503,7 @@
     {
       "region": "NA",
       "time": "00:30:00",
-      "duration": "00:00:00",
+      "duration": "00:30:00",
       "gameTime": null,
       "name": "",
       "startMessage": "Abyssal Attack",
@@ -6515,8 +6515,8 @@
       ]
     },{
       "region": "NA",
-      "time": "20:00:00",
-      "duration": "00:00:00",
+      "time": "20:30:00",
+      "duration": "00:30:00",
       "gameTime": null,
       "name": "",
       "startMessage": "Abyssal Attack",
