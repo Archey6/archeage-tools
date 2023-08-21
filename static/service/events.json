@@ -6692,7 +6692,7 @@
   ],
   "description": null,
   "link": "https://forum.aa-classic.com/index.php?threads/update-weekly-update-august-16th.581/",
-  "disabled": false,
+  "disabled": true,
   "timer": "2021-08-25T00:20:00.000Z",
   "activeTime": null
 }
