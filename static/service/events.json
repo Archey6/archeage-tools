@@ -1627,7 +1627,7 @@
     "times": [
       {
         "region": null,
-        "time": "01:54:00",
+        "time": "20:00:00",
         "duration": "00:15:00",
         "gameTime": "00:00:00",
         "name": null,
@@ -1648,7 +1648,7 @@
       },
       {
         "region": null,
-        "time": "05:54:00",
+        "time": "00:00:00",
         "duration": "00:15:00",
         "gameTime": "00:00:00",
         "name": null,
@@ -1669,7 +1669,7 @@
       },
       {
         "region": null,
-        "time": "09:54:00",
+        "time": "04:00:00",
         "duration": "00:10:00",
         "gameTime": "00:00:00",
         "name": null,
@@ -1690,7 +1690,7 @@
       },
       {
         "region": null,
-        "time": "13:54:00",
+        "time": "08:00:00",
         "duration": "00:10:00",
         "gameTime": "00:00:00",
         "name": null,
@@ -1711,7 +1711,7 @@
       },
       {
         "region": null,
-        "time": "17:54:00",
+        "time": "12:00:00",
         "duration": "00:10:00",
         "gameTime": "00:00:00",
         "name": null,
@@ -1732,7 +1732,7 @@
       },
       {
         "region": null,
-        "time": "21:54:00",
+        "time": "16:00:00",
         "duration": "00:10:00",
         "gameTime": "00:00:00",
         "name": null,
@@ -1766,7 +1766,7 @@
     "times": [
       {
         "region": null,
-        "time": "23:54:00",
+        "time": "02:00:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
@@ -1787,7 +1787,7 @@
       },
       {
         "region": null,
-        "time": "03:54:00",
+        "time": "06:00:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
@@ -1808,7 +1808,7 @@
       },
       {
         "region": null,
-        "time": "07:54:00",
+        "time": "10:00:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
@@ -1829,7 +1829,7 @@
       },
       {
         "region": null,
-        "time": "11:54:00",
+        "time": "14:00:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
@@ -1850,7 +1850,7 @@
       },
       {
         "region": null,
-        "time": "15:54:00",
+        "time": "18:00:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
@@ -1871,7 +1871,7 @@
       },
       {
         "region": null,
-        "time": "19:54:00",
+        "time": "22:00:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
@@ -1927,7 +1927,7 @@
     "times": [
       {
         "region": null,
-        "time": "22:54:00",
+        "time": "01:00:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -1948,7 +1948,7 @@
       },
       {
         "region": null,
-        "time": "02:54:00",
+        "time": "05:00:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -1969,7 +1969,7 @@
       },
       {
         "region": null,
-        "time": "06:54:00",
+        "time": "09:00:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -1990,7 +1990,7 @@
       },
       {
         "region": null,
-        "time": "10:54:00",
+        "time": "13:00:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -2011,7 +2011,7 @@
       },
       {
         "region": null,
-        "time": "14:54:00",
+        "time": "17:00:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -2032,7 +2032,7 @@
       },
       {
         "region": null,
-        "time": "18:54:00",
+        "time": "21:00:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
@@ -3759,7 +3759,7 @@
     "times": [
       {
         "region": null,
-        "time": "00:54:00",
+        "time": "19:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -3780,7 +3780,7 @@
       },
       {
         "region": null,
-        "time": "04:54:00",
+        "time": "23:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -3801,7 +3801,7 @@
       },
       {
         "region": null,
-        "time": "08:54:00",
+        "time": "03:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -3822,7 +3822,7 @@
       },
       {
         "region": null,
-        "time": "12:54:00",
+        "time": "07:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -3843,7 +3843,7 @@
       },
       {
         "region": null,
-        "time": "16:54:00",
+        "time": "11:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -3864,7 +3864,7 @@
       },
       {
         "region": null,
-        "time": "20:54:00",
+        "time": "15:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -6558,7 +6558,7 @@
   "times": [
       {
         "region": null,
-        "time": "00:54:00",
+        "time": "23:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -6579,7 +6579,7 @@
       },
       {
         "region": null,
-        "time": "04:54:00",
+        "time": "03:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -6600,7 +6600,7 @@
       },
       {
         "region": null,
-        "time": "08:54:00",
+        "time": "07:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -6621,7 +6621,7 @@
       },
       {
         "region": null,
-        "time": "12:54:00",
+        "time": "11:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -6642,7 +6642,7 @@
       },
       {
         "region": null,
-        "time": "16:54:00",
+        "time": "15:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
@@ -6663,7 +6663,7 @@
       },
       {
         "region": null,
-        "time": "20:54:00",
+        "time": "19:00:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
