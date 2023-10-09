@@ -1052,7 +1052,7 @@
     ],
     "description": "A Lack of Melons and Aerial Delivery",
     "link": "",
-    "disabled": false,
+    "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   },
