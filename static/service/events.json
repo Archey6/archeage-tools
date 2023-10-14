@@ -270,7 +270,7 @@
     ],
     "description": null,
     "link": "https://forum.aa-classic.com/index.php?threads/announcement-content-calendar-boss-and-event-timers.99/",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-24T20:45:00.000Z",
     "nextTime": {
       "region": "EU",
@@ -304,7 +304,7 @@
       {
         "region": "NA",
         "time": "17:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": "$0 have spawned.",
@@ -316,7 +316,7 @@
       },{
         "region": "NA",
         "time": "01:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": "$0 have spawned.",
@@ -328,7 +328,7 @@
       },{
         "region": "NA",
         "time": "20:30:00",
-        "duration": "03:00:00",
+        "duration": "02:00:00",
         "gameTime": null,
         "name": null,
         "startMessage": "$0 have spawned.",
