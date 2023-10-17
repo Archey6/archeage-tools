@@ -6269,7 +6269,7 @@
     ],
     "description": "A Lack of Melons and Aerial Delivery",
     "link": "https://na.archerage.to/forums/threads/festival-zodiac-festival.9099/",
-    "disabled": false,
+    "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   }
