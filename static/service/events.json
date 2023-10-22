@@ -410,12 +410,12 @@
     "times": [
       {
         "region": null,
-        "time": "18:15:00",
-        "duration": "00:15:00",
+        "time": "18:40:00",
+        "duration": "00:40:00",
         "gameTime": "00:00:00",
         "name": null,
         "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -431,12 +431,12 @@
       },
       {
         "region": null,
-        "time": "22:15:00",
-        "duration": "00:15:00",
+        "time": "22:40:00",
+        "duration": "00:40:00",
         "gameTime": "00:00:00",
         "name": null,
         "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -452,12 +452,12 @@
       },
       {
         "region": null,
-        "time": "02:15:00",
+        "time": "02:40:00",
         "duration": "00:10:00",
         "gameTime": "00:00:00",
         "name": null,
         "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -473,12 +473,12 @@
       },
       {
         "region": null,
-        "time": "06:15:00",
+        "time": "06:40:00",
         "duration": "00:10:00",
         "gameTime": "00:00:00",
         "name": null,
         "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -494,12 +494,12 @@
       },
       {
         "region": null,
-        "time": "10:15:00",
+        "time": "10:40:00",
         "duration": "00:10:00",
         "gameTime": "00:00:00",
         "name": null,
         "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -515,12 +515,12 @@
       },
       {
         "region": null,
-        "time": "14:15:00",
+        "time": "14:40:00",
         "duration": "00:10:00",
         "gameTime": "00:00:00",
         "name": null,
         "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -549,12 +549,12 @@
     "times": [
       {
         "region": null,
-        "time": "20:15:00",
+        "time": "20:40:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
         "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -570,12 +570,12 @@
       },
       {
         "region": null,
-        "time": "00:15:00",
+        "time": "00:40:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
         "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -591,12 +591,12 @@
       },
       {
         "region": null,
-        "time": "04:15:00",
+        "time": "04:40:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
         "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -612,12 +612,12 @@
       },
       {
         "region": null,
-        "time": "08:15:00",
+        "time": "08:40:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
         "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -633,12 +633,12 @@
       },
       {
         "region": null,
-        "time": "12:15:00",
+        "time": "12:40:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
         "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -654,12 +654,12 @@
       },
       {
         "region": null,
-        "time": "16:15:00",
+        "time": "16:40:00",
         "duration": "00:10:00",
         "gameTime": "12:00:00",
         "name": "",
         "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
         "days": [
           "MONDAY",
@@ -686,7 +686,7 @@
       "gameTime": "12:00:00",
       "name": "",
       "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
       "days": [
         "MONDAY",
@@ -710,12 +710,12 @@
     "times": [
       {
         "region": null,
-        "time": "19:15:00",
+        "time": "19:40:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
         "startMessage": "$0 have spawned.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "$0 will spawn in $1.",
         "days": [
           "MONDAY",
@@ -731,12 +731,12 @@
       },
       {
         "region": null,
-        "time": "23:15:00",
+        "time": "23:40:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
         "startMessage": "$0 have spawned.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "$0 will spawn in $1.",
         "days": [
           "MONDAY",
@@ -752,12 +752,12 @@
       },
       {
         "region": null,
-        "time": "03:15:00",
+        "time": "03:40:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
         "startMessage": "$0 have spawned.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "$0 will spawn in $1.",
         "days": [
           "MONDAY",
@@ -773,12 +773,12 @@
       },
       {
         "region": null,
-        "time": "07:15:00",
+        "time": "07:40:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
         "startMessage": "$0 have spawned.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "$0 will spawn in $1.",
         "days": [
           "MONDAY",
@@ -794,12 +794,12 @@
       },
       {
         "region": null,
-        "time": "11:15:00",
+        "time": "11:40:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
         "startMessage": "$0 have spawned.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "$0 will spawn in $1.",
         "days": [
           "MONDAY",
@@ -815,12 +815,12 @@
       },
       {
         "region": null,
-        "time": "15:15:00",
+        "time": "15:40:00",
         "duration": "01:00:00",
         "gameTime": "06:00:00",
         "name": null,
         "startMessage": "$0 have spawned.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "$0 will spawn in $1.",
         "days": [
           "MONDAY",
@@ -849,12 +849,12 @@
     "times": [
       {
         "region": null,
-        "time": "17:15:00",
+        "time": "17:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Crimson Rift has opened in Auroria.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
         "days": [
           "MONDAY",
@@ -870,12 +870,12 @@
       },
       {
         "region": null,
-        "time": "21:15:00",
+        "time": "21:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Crimson Rift has opened in Auroria.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
         "days": [
           "MONDAY",
@@ -891,12 +891,12 @@
       },
       {
         "region": null,
-        "time": "01:15:00",
+        "time": "01:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Crimson Rift has opened in Auroria.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
         "days": [
           "MONDAY",
@@ -912,12 +912,12 @@
       },
       {
         "region": null,
-        "time": "05:15:00",
+        "time": "05:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Crimson Rift has opened in Auroria.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
         "days": [
           "MONDAY",
@@ -933,12 +933,12 @@
       },
       {
         "region": null,
-        "time": "09:15:00",
+        "time": "09:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Crimson Rift has opened in Auroria.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
         "days": [
           "MONDAY",
@@ -954,12 +954,12 @@
       },
       {
         "region": null,
-        "time": "13:15:00",
+        "time": "13:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Crimson Rift has opened in Auroria.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
         "days": [
           "MONDAY",
@@ -993,7 +993,7 @@
         "gameTime": null,
         "name": null,
         "startMessage": null,
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": null,
         "days": [
           "MONDAY",
@@ -1014,7 +1014,7 @@
         "gameTime": null,
         "name": null,
         "startMessage": null,
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": null,
         "days": [
           "MONDAY",
@@ -1035,7 +1035,7 @@
         "gameTime": null,
         "name": null,
         "startMessage": null,
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": null,
         "days": [
           "MONDAY",
@@ -1069,7 +1069,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Golden Plains",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Golden Plains battle begins in  $1.",
       "days": [
         "MONDAY",
@@ -1087,7 +1087,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Golden Plains",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Golden Plains battle begins in  $1.",
       "days": [
         "MONDAY",
@@ -1105,7 +1105,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Golden Plains",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Golden Plains battle begins in  $1.",
       "days": [
         "MONDAY",
@@ -1136,7 +1136,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Gold Trader",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Gold Trader appears on Freedich Island in $1.",
       "days": [
         "MONDAY",
@@ -1154,7 +1154,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Gold Trader",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Gold Trader appears on Freedich Island in $1.",
       "days": [
         "MONDAY",
@@ -1185,7 +1185,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Mistmerrow",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Mistmerrow begins in $1.",
       "days": [
         "MONDAY",
@@ -1203,7 +1203,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Mistmerrow",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Mistmerrow begins in $1.",
       "days": [
         "MONDAY",
@@ -1221,7 +1221,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Mistmerrow",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Mistmerrow begins in $1.",
       "days": [
         "MONDAY",
@@ -1252,7 +1252,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Ocleera Rift",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Ocleera Rift begins in $1.",
       "days": [
         "MONDAY",
@@ -1270,7 +1270,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Ocleera Rift",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Ocleera Rift begins in $1.",
       "days": [
         "MONDAY",
@@ -1301,7 +1301,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Lusca Awakening",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Luscas Awakening begins in $1.",
       "days": [
         "MONDAY",
@@ -1319,7 +1319,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Lusca Awakening",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Luscas Awakening begins in $1.",
       "days": [
         "MONDAY",
@@ -1350,7 +1350,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Abyssal Attack",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Abyssal Attack begins in $1.",
       "days": [
         "WEDNESDAY",
@@ -1363,7 +1363,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Abyssal Attack",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Abyssal Attack begins in $1.",
       "days": [
         "SATURDAY"
@@ -1383,12 +1383,12 @@
   "times": [
       {
         "region": null,
-        "time": "17:15:00",
+        "time": "17:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Hasla Rift has opened in Hasla.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Hasla Rift will be opening in Hasla in $1.",
         "days": [
           "MONDAY",
@@ -1404,12 +1404,12 @@
       },
       {
         "region": null,
-        "time": "21:15:00",
+        "time": "21:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Hasla Rift has opened in Hasla.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Hasla Rift will be opening in Hasla in $1.",
         "days": [
           "MONDAY",
@@ -1425,12 +1425,12 @@
       },
       {
         "region": null,
-        "time": "01:15:00",
+        "time": "01:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Hasla Rift has opened in Hasla.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Hasla Rift will be opening in Hasla in $1.",
         "days": [
           "MONDAY",
@@ -1446,12 +1446,12 @@
       },
       {
         "region": null,
-        "time": "05:15:00",
+        "time": "05:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Hasla Rift has opened in Hasla.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Hasla Rift will be opening in Hasla in $1.",
         "days": [
           "MONDAY",
@@ -1467,12 +1467,12 @@
       },
       {
         "region": null,
-        "time": "09:15:00",
+        "time": "09:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Hasla Rift has opened in Hasla.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Hasla Rift will be opening in Hasla in $1.",
         "days": [
           "MONDAY",
@@ -1488,12 +1488,12 @@
       },
       {
         "region": null,
-        "time": "13:15:00",
+        "time": "13:40:00",
         "duration": "00:10:00",
         "gameTime": "18:00:00",
         "name": null,
         "startMessage": "The Hasla Rift has opened in Hasla.",
-        "reminderTime": "00:15:00",
+        "reminderTime": "00:40:00",
         "reminderMessage": "The Hasla Rift will be opening in Hasla in $1.",
         "days": [
           "MONDAY",
@@ -1526,7 +1526,7 @@
       "gameTime": null,
       "name": "",
       "startMessage": "Auroria Land Rush",
-      "reminderTime": "00:15:00",
+      "reminderTime": "00:40:00",
       "reminderMessage": "Auroria Land Rush begins in $1.",
       "days": [
         "SUNDAY"
