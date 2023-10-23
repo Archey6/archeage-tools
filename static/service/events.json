@@ -1296,7 +1296,7 @@
   "times": [
     {
       "region": "NA",
-      "time": "18:25:00",
+      "time": "18:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": "",
@@ -1314,7 +1314,7 @@
       ]
     },{
       "region": "NA",
-      "time": "00:25:00",
+      "time": "00:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": "",
@@ -1345,7 +1345,7 @@
   "times": [
     {
       "region": "NA",
-      "time": "00:30:00",
+      "time": "00:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": "",
@@ -1355,18 +1355,6 @@
       "days": [
         "WEDNESDAY",
 		"FRIDAY"
-      ]
-    },{
-      "region": "NA",
-      "time": "20:30:00",
-      "duration": "00:30:00",
-      "gameTime": null,
-      "name": "",
-      "startMessage": "Abyssal Attack",
-      "reminderTime": "00:40:00",
-      "reminderMessage": "Abyssal Attack begins in $1.",
-      "days": [
-        "SATURDAY"
       ]
     }
   ],
