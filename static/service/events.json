@@ -1526,5 +1526,90 @@
   "disabled": true,
   "timer": "2021-08-25T00:20:00.000Z",
   "activeTime": null
+},{
+  "id": 71,
+  "name": "Hallowtide ",
+  "icon": "land_rush",
+  "eventType": 6,
+  "times": [
+    {
+      "region": "NA",
+      "time": "18:00:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Hallowtide",
+      "reminderTime": "00:40:00",
+      "reminderMessage": "Hallowtide begins in $1.",
+      "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+    },{
+      "region": "NA",
+      "time": "22:00:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Hallowtide",
+      "reminderTime": "00:40:00",
+      "reminderMessage": "Hallowtide begins in $1.",
+      "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+    },{
+      "region": "NA",
+      "time": "02:00:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Hallowtide",
+      "reminderTime": "00:40:00",
+      "reminderMessage": "Hallowtide begins in $1.",
+      "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+    },{
+      "region": "NA",
+      "time": "06:00:00",
+      "duration": "00:00:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "Hallowtide",
+      "reminderTime": "00:40:00",
+      "reminderMessage": "Hallowtide begins in $1.",
+      "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+    }
+  ],
+  "description": null,
+  "link": "https://forum.aa-classic.com/index.php?threads/update-weekly-update-august-16th.581/",
+  "disabled": false,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null
 }
 ]
