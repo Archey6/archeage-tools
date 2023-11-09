@@ -3715,7 +3715,7 @@
     ],
     "description": "Help cheer up the Ezna or Moonswept Spirits as a part of the Hallowtide festival in Two Crowns.",
     "link": null,
-    "disabled": false
+    "disabled": true
   },
   {
     "id": 30,
