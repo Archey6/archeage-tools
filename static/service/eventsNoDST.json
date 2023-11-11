@@ -3902,7 +3902,7 @@
     "activeTime": null,
     "nextTime": {
       "region": "EU",
-      "time": "19:30:00",
+      "time": "20:30:00",
       "duration": "00:40:00",
       "gameTime": null,
       "name": null,
@@ -3927,7 +3927,7 @@
     "times": [
       {
         "region": "EU",
-        "time": "17:30:00",
+        "time": "18:30:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -3946,7 +3946,7 @@
       },
       {
         "region": "EU",
-        "time": "22:30:00",
+        "time": "23:30:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -3965,7 +3965,7 @@
       },
       {
         "region": "NA",
-        "time": "00:30:00",
+        "time": "01:30:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -3984,7 +3984,7 @@
       },
       {
         "region": "NA",
-        "time": "05:30:00",
+        "time": "06:30:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -4784,7 +4784,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "04:00:00",
+        "time": "05:00:00",
         "duration": "24:00:00",
         "gameTime": null,
         "name": null,
@@ -4807,7 +4807,7 @@
     "activeTime": null,
     "nextTime": {
       "region": "NA",
-      "time": "00:00:00",
+      "time": "01:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": null,
@@ -4833,7 +4833,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "04:00:00",
+        "time": "05:00:00",
         "duration": "24:00:00",
         "gameTime": null,
         "name": null,
@@ -4855,7 +4855,7 @@
     "activeTime": null,
     "nextTime": {
       "region": "NA",
-      "time": "00:00:00",
+      "time": "01:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": null,
@@ -4881,7 +4881,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "04:00:00",
+        "time": "05:00:00",
         "duration": "24:00:00",
         "gameTime": null,
         "name": null,
@@ -4902,7 +4902,7 @@
     "activeTime": null,
     "nextTime": {
       "region": "NA",
-      "time": "00:00:00",
+      "time": "01:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": null,
@@ -4928,7 +4928,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "17:30:00",
+        "time": "18:30:00",
         "duration": "00:45:00",
         "gameTime": null,
         "name": null,
@@ -4944,7 +4944,7 @@
       },
       {
         "region": "NA",
-        "time": "02:30:00",
+        "time": "03:30:00",
         "duration": "00:45:00",
         "gameTime": null,
         "name": null,
@@ -4966,7 +4966,7 @@
     "activeTime": null,
     "nextTime": {
       "region": "NA",
-      "time": "00:00:00",
+      "time": "01:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": null,
@@ -4992,7 +4992,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "15:30:00",
+        "time": "16:30:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -5008,7 +5008,7 @@
       },
       {
         "region": "NA",
-        "time": "01:30:00",
+        "time": "02:30:00",
         "duration": "00:45:00",
         "gameTime": null,
         "name": null,
@@ -5030,7 +5030,7 @@
     "activeTime": null,
     "nextTime": {
       "region": "NA",
-      "time": "00:00:00",
+      "time": "01:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": null,
@@ -5056,7 +5056,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "17:30:00",
+        "time": "18:30:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -5072,7 +5072,7 @@
       },
       {
         "region": "NA",
-        "time": "02:30:00",
+        "time": "03:30:00",
         "duration": "00:45:00",
         "gameTime": null,
         "name": null,
@@ -5094,7 +5094,7 @@
     "activeTime": null,
     "nextTime": {
       "region": "NA",
-      "time": "00:00:00",
+      "time": "01:00:00",
       "duration": "00:30:00",
       "gameTime": null,
       "name": null,
