@@ -1,0 +1,6276 @@
+[
+  {
+    "id": 1,
+    "name": "Daily Reset",
+    "icon": "daily_reset",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": null,
+        "gameTime": null,
+        "name": null,
+        "startMessage": "Daily activities have reset.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Daily activities will reset in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "00:00:00",
+        "duration": null,
+        "gameTime": null,
+        "name": null,
+        "startMessage": "Daily activities have reset.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Daily activities will reset in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:00:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "16:00:00",
+        "duration": null,
+        "gameTime": null,
+        "name": null,
+        "startMessage": "Daily activities have reset.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Daily activities will reset in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "All daily content unlocks again, resetting daily quests and instance entries.",
+    "link": null,
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "00:00:00",
+      "duration": null,
+      "gameTime": null,
+      "name": null,
+      "startMessage": "Daily activities have reset.",
+      "reminderTime": "00:30:00",
+      "reminderMessage": "Daily activities will reset in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:00:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Weekly Reset",
+    "icon": "archepass_reset",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": null,
+        "gameTime": null,
+        "name": null,
+        "startMessage": "Weekly quests and ArchePass mission count have reset.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Weekly quests and ArchePass mission count will reset in $1.",
+        "days": [
+          "MONDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "00:00:00",
+        "duration": null,
+        "gameTime": null,
+        "name": null,
+        "startMessage": "Weekly quests and ArchePass mission count have reset.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Weekly quests and ArchePass mission count will reset in $1.",
+        "days": [
+          "MONDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:00:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "16:00:00",
+        "duration": null,
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Weekly quests and ArchePass missions reset.",
+    "link": null,
+    "disabled": false,
+    "timer": "2021-08-30T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "00:00:00",
+      "duration": null,
+      "gameTime": null,
+      "name": null,
+      "startMessage": "Weekly quests and ArchePass mission count have reset.",
+      "reminderTime": "00:30:00",
+      "reminderMessage": "Weekly quests and ArchePass mission count will reset in $1.",
+      "days": [
+        "MONDAY"
+      ],
+      "startTime": "2021-08-30T00:00:00.000Z",
+      "endTime": "2021-08-30T00:00:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Abyssal Attack",
+    "icon": "abyssal_attack",
+    "eventType": 5,
+    "times": [
+      {
+        "region": "NA",
+        "time": "01:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+          "FRIDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T19:29:00.000Z",
+        "endTime": "2021-08-24T21:29:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "21:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T19:29:00.000Z",
+        "endTime": "2021-08-24T21:29:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "20:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T19:29:00.000Z",
+        "endTime": "2021-08-24T21:29:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "13:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67858",
+    "disabled": false,
+    "timer": "2021-08-24T21:29:00.000Z",
+    "nextTime": {
+      "region": "EU",
+      "time": "19:29:00",
+      "duration": "02:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "TUESDAY",
+        "THURSDAY",
+        "SATURDAY"
+      ],
+      "startTime": "2021-08-26T19:29:00.000Z",
+      "endTime": "2021-08-26T21:29:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mirage Isle Fish Fest",
+    "icon": "fish_fest",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "16:00:00",
+        "duration": "12:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Mirage Isle Fish Fest has begun.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Mirage Isle Fish Fest begins in $1.",
+        "days": [
+          "SATURDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "10:00:00",
+        "duration": "12:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Mirage Isle Fish Fest has begun.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Mirage Isle Fish Fest begins in $1.",
+        "days": [
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-21T10:00:00.000Z",
+        "endTime": "2021-08-21T22:00:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "04:00:00",
+        "duration": "12:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ]
+      }
+    ],
+    "description": "The fishing contest in Mirage is open to everyone for most of the day on Saturday.",
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-69080",
+    "disabled": false,
+    "timer": "2021-08-28T10:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "10:00:00",
+      "duration": "12:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": "The Mirage Isle Fish Fest has begun.",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Mirage Isle Fish Fest begins in $1.",
+      "days": [
+        "SATURDAY"
+      ],
+      "startTime": "2021-08-28T10:00:00.000Z",
+      "endTime": "2021-08-28T22:00:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Black Dragon",
+    "icon": "dragon_black",
+    "eventType": 3,
+    "times": [
+      {
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY"
+        ],
+        "startTime": "2021-08-24T19:30:00.000Z",
+        "endTime": "2021-08-24T20:30:00.000Z"
+      },{
+        "region": "NA",
+        "time": "22:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T19:30:00.000Z",
+        "endTime": "2021-08-24T20:30:00.000Z"
+      },{
+        "region": "NA",
+        "time": "14:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T19:30:00.000Z",
+        "endTime": "2021-08-24T20:30:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "19:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY"
+        ],
+        "startTime": "2021-08-24T19:30:00.000Z",
+        "endTime": "2021-08-24T20:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-80914",
+    "disabled": false,
+    "timer": "2021-08-29T19:30:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "19:30:00",
+      "duration": "01:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:30:00",
+      "reminderMessage": null,
+      "days": [
+        "SUNDAY",
+        "TUESDAY"
+      ],
+      "startTime": "2021-08-29T19:30:00.000Z",
+      "endTime": "2021-08-29T20:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Charybdis",
+    "icon": "charybdis",
+    "eventType": 3,
+    "times": [
+      {
+        "region": "NA",
+        "time": "02:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "FRIDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "20:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "THURSDAY"
+        ],
+        "startTime": "2021-08-22T19:30:00.000Z",
+        "endTime": "2021-08-22T20:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-84819",
+    "disabled": false,
+    "timer": "2021-08-26T19:30:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "19:30:00",
+      "duration": "01:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:30:00",
+      "reminderMessage": null,
+      "days": [
+        "SUNDAY",
+        "THURSDAY"
+      ],
+      "startTime": "2021-08-26T19:30:00.000Z",
+      "endTime": "2021-08-26T20:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Delphinad Ghost Ships",
+    "icon": "delphinad_ghost_ships",
+    "eventType": 3,
+    "times": [
+      {
+        "region": "NA",
+        "time": "01:15:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "19:45:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T19:45:00.000Z",
+        "endTime": "2021-08-24T20:45:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "13:45:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67882",
+    "disabled": false,
+    "timer": "2021-08-24T20:45:00.000Z",
+    "nextTime": {
+      "region": "EU",
+      "time": "19:45:00",
+      "duration": "01:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": "$0 have spawned.",
+      "reminderTime": "00:30:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T19:45:00.000Z",
+      "endTime": "2021-08-25T20:45:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Kadum",
+    "icon": "kadum",
+    "eventType": 1,
+    "times": [
+      {
+        "region": "NA",
+        "time": "12:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "16:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "WEDNESDAY",
+          "FRIDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:30:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "00:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T00:00:00.000Z",
+        "endTime": "2021-08-24T00:30:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "13:15:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T13:15:00.000Z",
+        "endTime": "2021-08-24T14:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "19:15:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T19:15:00.000Z",
+        "endTime": "2021-08-24T20:00:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67877",
+    "disabled": false,
+    "timer": "2021-08-26T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "SUNDAY",
+        "TUESDAY",
+        "THURSDAY",
+        "SATURDAY"
+      ],
+      "startTime": "2021-08-26T00:00:00.000Z",
+      "endTime": "2021-08-26T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Kraken",
+    "icon": "kraken",
+    "eventType": 3,
+    "times": [
+      {
+        "region": "NA",
+        "time": "23:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T19:30:00.000Z",
+        "endTime": "2021-08-24T20:30:00.000Z"
+      },{
+        "region": "NA",
+        "time": "15:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T19:30:00.000Z",
+        "endTime": "2021-08-24T20:30:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "19:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY"
+        ],
+        "startTime": "2021-08-24T19:30:00.000Z",
+        "endTime": "2021-08-24T20:30:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "13:35:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67857",
+    "disabled": false,
+    "timer": "2021-08-29T19:30:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "19:30:00",
+      "duration": "01:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:30:00",
+      "reminderMessage": null,
+      "days": [
+        "SUNDAY",
+        "TUESDAY"
+      ],
+      "startTime": "2021-08-29T19:30:00.000Z",
+      "endTime": "2021-08-29T20:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Leviathan",
+    "icon": "leviathan",
+    "eventType": 3,
+    "times": [
+      {
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "19:30:00",
+        "duration": "03:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:30:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "THURSDAY"
+        ],
+        "startTime": "2021-08-22T19:30:00.000Z",
+        "endTime": "2021-08-22T21:30:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "13:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/events-mini-guide.8861/#post-67987",
+    "disabled": false,
+    "timer": "2021-08-26T19:30:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "19:30:00",
+      "duration": "02:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:30:00",
+      "reminderMessage": null,
+      "days": [
+        "SUNDAY",
+        "THURSDAY"
+      ],
+      "startTime": "2021-08-26T19:30:00.000Z",
+      "endTime": "2021-08-26T21:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Lusca Awakening",
+    "icon": "lusca_awakening",
+    "eventType": 2,
+    "times": [
+      {
+        "region": "NA",
+        "time": "21:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Lusca have awoken in the Sea of Graves.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Lusca will awaken in the Sea of Graves in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },{
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Lusca have awoken in the Sea of Graves.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Lusca will awaken in the Sea of Graves in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "20:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Lusca have awoken in the Sea of Graves.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Lusca will awaken in the Sea of Graves in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "14:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Lusca have awoken in the Sea of Graves.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Lusca will awaken in the Sea of Graves in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": "/guides/honor-dailies#lusca-awakening",
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z",
+    "nextTime": {
+      "region": "NA",
+      "time": "20:00:00",
+      "duration": "01:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": "The Lusca have awoken in the Sea of Graves.",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Lusca will awaken in the Sea of Graves in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T20:00:00.000Z",
+      "endTime": "2021-08-25T21:00:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "Red Dragon's Keep",
+    "icon": "dragon_red",
+    "eventType": 1,
+    "times": [
+      {
+        "region": "NA",
+        "time": "12:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "MONDAY",
+          "WEDNESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "16:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "MONDAY",
+          "WEDNESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "THURSDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "00:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "WEDNESDAY",
+          "FRIDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "13:15:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "WEDNESDAY",
+          "FRIDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T13:15:00.000Z",
+        "endTime": "2021-08-23T14:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "19:15:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "WEDNESDAY",
+          "FRIDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T19:15:00.000Z",
+        "endTime": "2021-08-23T20:00:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "18:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "THURSDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "07:15:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+          "FRIDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "13:15:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+          "FRIDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": "/guides/red-dragons-keep",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 13,
+    "name": "Castle",
+    "icon": "castle_siege",
+    "eventType": 5,
+    "times": [
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": "Supply Transport",
+        "startMessage": "Castle supply transportation is now available.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Castle supply transportation will be available in $1 for $2.",
+        "days": [
+          "WEDNESDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": "Claim / Siege Prep",
+        "startMessage": "Castle claim or siege preparations has begun for $1.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Castle claim or siege preparations begins in $1 for $2.",
+        "days": [
+          "SATURDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": "Siege",
+        "startMessage": "Castle siege has begun for up to $1.",
+        "reminderTime": "00:05:00",
+        "reminderMessage": "Castle siege is beginning in $1 for up to $2.",
+        "days": [
+          "SATURDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "22:00:00",
+        "duration": "20:00:00",
+        "gameTime": null,
+        "name": "Supply Transport",
+        "startMessage": "Castle supply transportation is now available.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Castle supply transportation will be available in $1 for $2.",
+        "days": [
+          "TUESDAY"
+        ],
+        "startTime": "2021-08-25T22:00:00.000Z",
+        "endTime": "2021-08-26T18:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": "Claim / Siege Preparation",
+        "startMessage": "Castle claim or siege preparations has begun for $1.",
+        "reminderTime": "00:30:00",
+        "reminderMessage": "Castle claim or siege preparations begins in $1 for $2.",
+        "days": [
+          "WEDNESDAY"
+        ],
+        "startTime": "2021-08-25T18:00:00.000Z",
+        "endTime": "2021-08-25T19:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "19:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": "Siege",
+        "startMessage": "Castle siege has begun for up to $1.",
+        "reminderTime": "00:05:00",
+        "reminderMessage": "Castle siege is beginning in $1 for up to $2.",
+        "days": [
+          "WEDNESDAY"
+        ],
+        "startTime": "2021-08-25T19:00:00.000Z",
+        "endTime": "2021-08-25T20:00:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": null,
+    "disabled": false,
+    "timer": "2021-08-25T18:00:00.000Z",
+    "activeTime": null
+  },
+  {
+    "id": 14,
+    "name": "The Fall of Hiram City",
+    "icon": "fall_of_hiram",
+    "eventType": 1,
+    "times": [
+      {
+        "region": "NA",
+        "time": "13:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "23:00:00",
+        "duration": "01:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "08:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T08:00:00.000Z",
+        "endTime": "2021-08-24T10:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "16:00:00",
+        "duration": "05:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T16:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "02:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "10:00:00",
+        "duration": "05:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-80124",
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z"
+  },
+  {
+    "id": 15,
+    "name": "Golden Plains Battle",
+    "icon": "goldplain",
+    "eventType": 1,
+    "times": [
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "03:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "17:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "03:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+
+          "SUNDAY",
+          "MONDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "13:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/honor-dailies#golden-plains-battle",
+    "disabled": false,
+    "timer": "2021-08-24T23:30:00.000Z",
+    "activeTime": null
+  },
+  {
+    "id": 16,
+    "name": "Stillwater Gulf",
+    "icon": "sea_battlefield",
+    "eventType": 1,
+    "times": [
+      {
+        "region": "NA",
+        "time": "21:00:00",
+        "duration": "09:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "14:00:00",
+        "duration": "09:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 17,
+    "name": "Grimghast Rift",
+    "icon": "grimghast_rift",
+    "eventType": 2,
+    "times": [
+      {
+        "region": null,
+        "time": "03:20:00",
+        "duration": "00:15:00",
+        "gameTime": "00:00:00",
+        "name": null,
+        "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T02:20:00.000Z",
+        "endTime": "2021-08-24T02:35:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "07:20:00",
+        "duration": "00:15:00",
+        "gameTime": "00:00:00",
+        "name": null,
+        "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T06:20:00.000Z",
+        "endTime": "2021-08-24T06:35:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "11:20:00",
+        "duration": "00:10:00",
+        "gameTime": "00:00:00",
+        "name": null,
+        "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T10:20:00.000Z",
+        "endTime": "2021-08-24T10:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "15:20:00",
+        "duration": "00:10:00",
+        "gameTime": "00:00:00",
+        "name": null,
+        "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T14:20:00.000Z",
+        "endTime": "2021-08-24T14:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "19:20:00",
+        "duration": "00:10:00",
+        "gameTime": "00:00:00",
+        "name": null,
+        "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T18:20:00.000Z",
+        "endTime": "2021-08-24T18:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "23:20:00",
+        "duration": "00:10:00",
+        "gameTime": "00:00:00",
+        "name": null,
+        "startMessage": "The Grimghast Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Grimghast Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T22:20:00.000Z",
+        "endTime": "2021-08-24T22:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/honor-dailies#grimghast-rift",
+    "disabled": false,
+    "timer": "2021-08-24T22:20:00.000Z",
+    "activeTime": null
+  },
+  {
+    "id": 18,
+    "name": "Crimson Rift",
+    "icon": "crimson_rift",
+    "eventType": 2,
+    "times": [
+      {
+        "region": null,
+        "time": "01:20:00",
+        "duration": "00:10:00",
+        "gameTime": "12:00:00",
+        "name": "",
+        "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T00:20:00.000Z",
+        "endTime": "2021-08-24T00:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "05:20:00",
+        "duration": "00:10:00",
+        "gameTime": "12:00:00",
+        "name": "",
+        "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T04:20:00.000Z",
+        "endTime": "2021-08-24T04:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "09:20:00",
+        "duration": "00:10:00",
+        "gameTime": "12:00:00",
+        "name": "",
+        "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T08:20:00.000Z",
+        "endTime": "2021-08-24T08:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "13:20:00",
+        "duration": "00:10:00",
+        "gameTime": "12:00:00",
+        "name": "",
+        "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T12:20:00.000Z",
+        "endTime": "2021-08-24T12:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "17:20:00",
+        "duration": "00:10:00",
+        "gameTime": "12:00:00",
+        "name": "",
+        "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T16:20:00.000Z",
+        "endTime": "2021-08-24T16:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "21:20:00",
+        "duration": "00:10:00",
+        "gameTime": "12:00:00",
+        "name": "",
+        "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:20:00.000Z",
+        "endTime": "2021-08-24T20:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/honor-dailies#crimson-rift",
+    "disabled": false,
+    "timer": "2021-08-25T00:20:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": null,
+      "time": "00:20:00",
+      "duration": "00:10:00",
+      "gameTime": "12:00:00",
+      "name": "",
+      "startMessage": "The Crimson Rift has opened in Nuia and Haranya.",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Crimson Rift will be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:20:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 19,
+    "name": "Jola, Meina, & Glenn",
+    "icon": "boss_monster",
+    "eventType": 3,
+    "times": [
+      {
+        "region": null,
+        "time": "00:20:00",
+        "duration": "01:00:00",
+        "gameTime": "06:00:00",
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "$0 will spawn in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T03:20:00.000Z",
+        "endTime": "2021-08-24T04:20:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "04:20:00",
+        "duration": "01:00:00",
+        "gameTime": "06:00:00",
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "$0 will spawn in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T07:20:00.000Z",
+        "endTime": "2021-08-24T08:20:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "08:20:00",
+        "duration": "01:00:00",
+        "gameTime": "06:00:00",
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "$0 will spawn in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T11:20:00.000Z",
+        "endTime": "2021-08-24T12:20:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "12:20:00",
+        "duration": "01:00:00",
+        "gameTime": "06:00:00",
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "$0 will spawn in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T15:20:00.000Z",
+        "endTime": "2021-08-24T16:20:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "16:20:00",
+        "duration": "01:00:00",
+        "gameTime": "06:00:00",
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "$0 will spawn in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T19:20:00.000Z",
+        "endTime": "2021-08-24T20:20:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "20:20:00",
+        "duration": "01:00:00",
+        "gameTime": "06:00:00",
+        "name": null,
+        "startMessage": "$0 have spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "$0 will spawn in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:20:00.000Z",
+        "endTime": "2021-08-25T00:20:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/meina-and-glenn",
+    "disabled": false,
+    "timer": "2021-08-24T23:20:00.000Z",
+    "activeTime": null
+  },
+  {
+    "id": 20,
+    "name": "The Yata Lantern",
+    "icon": "event",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Yata Lantern has spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Yata Lantern is spawning in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Yata Lantern has spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Yata Lantern is spawning in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Yata Lantern has spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Yata Lantern is spawning in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "22:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Yata Lantern has spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Yata Lantern is spawning in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "12:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Yata Lantern has spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Yata Lantern is spawning in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "17:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Yata Lantern has spawned.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Yata Lantern is spawning in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "The Lantern Festival in Gweonid Forest's Yata Lantern is only available for short periods of time throughout the day.",
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 22,
+    "name": "Daru Treasure",
+    "icon": "event",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "03:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "12:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "16:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "20:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Help Ian dig for buried Daru Treasure at the end of the rainbow in Ahnimar.",
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 23,
+    "name": "Anthalon (Garden)",
+    "icon": "anthalon",
+    "eventType": 3,
+    "times": [
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "Anthalon has spawned in the Garden.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "Anthalon will spawn in the Garden in $1.",
+        "days": [
+          "SUNDAY",
+          "MONDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "18:50:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "Anthalon has spawned in the Garden.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "Anthalon will spawn in the Garden in $1.",
+        "days": [
+          "SUNDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-22T18:50:00.000Z",
+        "endTime": "2021-08-22T19:50:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": null,
+    "disabled": false,
+    "timer": "2021-08-28T18:50:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "01:00:00",
+      "duration": "01:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": "Anthalon has spawned in the Garden.",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "Anthalon will spawn in the Garden in $1.",
+      "days": [
+        "SUNDAY",
+        "SATURDAY"
+      ],
+      "startTime": "2021-08-28T18:50:00.000Z",
+      "endTime": "2021-08-28T19:50:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 24,
+    "name": "Aerial Delivery",
+    "icon": "event",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "EU",
+        "time": "22:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "12:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "17:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Help deliver watermelons in Rookborne Basin.",
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 26,
+    "name": "Diamond Shores",
+    "icon": "pioneer",
+    "eventType": 7,
+    "times": [
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "11:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T11:00:00.000Z",
+        "endTime": "2021-08-24T13:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "23:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T01:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "06:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "05:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T05:00:00.000Z",
+        "endTime": "2021-08-24T07:00:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "17:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T17:00:00.000Z",
+        "endTime": "2021-08-24T19:00:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "05:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "11:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "17:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "23:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Diamond Shores enters war four times per day.",
+    "link": null,
+    "disabled": false,
+    "timer": "2021-08-24T23:00:00.000Z",
+    "activeTime": null
+  },
+  {
+    "id": 27,
+    "name": "Garden of the Gods",
+    "icon": "archeage_green",
+    "eventType": 7,
+    "times": [
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "06:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "08:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "10:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "14:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "15:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "20:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "22:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "01:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T01:00:00.000Z",
+        "endTime": "2021-08-24T01:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "03:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T03:00:00.000Z",
+        "endTime": "2021-08-24T03:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "05:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T05:00:00.000Z",
+        "endTime": "2021-08-24T05:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "07:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T07:00:00.000Z",
+        "endTime": "2021-08-24T07:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "09:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T09:00:00.000Z",
+        "endTime": "2021-08-24T09:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "11:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T11:00:00.000Z",
+        "endTime": "2021-08-24T11:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "13:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T13:00:00.000Z",
+        "endTime": "2021-08-24T13:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "15:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T15:00:00.000Z",
+        "endTime": "2021-08-24T15:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "17:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T17:00:00.000Z",
+        "endTime": "2021-08-24T17:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "19:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T19:00:00.000Z",
+        "endTime": "2021-08-24T19:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "21:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T21:00:00.000Z",
+        "endTime": "2021-08-24T21:50:00.000Z"
+      },
+      {
+        "region": "EU",
+        "time": "23:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-24T23:50:00.000Z"
+      },
+      {
+        "region": "SEA",
+        "time": "01:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "03:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "05:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "07:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "09:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "11:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "13:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "15:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "17:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "19:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "21:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "SEA",
+        "time": "23:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Garden enters war every 2 hours.",
+    "link": null,
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z",
+    "activeTime": null
+  },
+  {
+    "id": 28,
+    "name": "A Royal Dish",
+    "icon": "event",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "12:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "17:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "22:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "The Singing Bard arrives at the Hasla Feastival. During this event, you can collect three more Feastival Coins, three times per day.",
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 29,
+    "name": "Troubled Spirits",
+    "icon": "event",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "07:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "12:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "18:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "22:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "02:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Help cheer up the Ezna or Moonswept Spirits as a part of the Hallowtide festival in Two Crowns.",
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 30,
+    "name": "Crimson Rift (Auroria)",
+    "icon": "anthalon",
+    "eventType": 2,
+    "times": [
+      {
+        "region": null,
+        "time": "02:20:00",
+        "duration": "00:10:00",
+        "gameTime": "18:00:00",
+        "name": null,
+        "startMessage": "The Crimson Rift has opened in Auroria.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T01:20:00.000Z",
+        "endTime": "2021-08-24T01:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "06:20:00",
+        "duration": "00:10:00",
+        "gameTime": "18:00:00",
+        "name": null,
+        "startMessage": "The Crimson Rift has opened in Auroria.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T05:20:00.000Z",
+        "endTime": "2021-08-24T05:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "10:20:00",
+        "duration": "00:10:00",
+        "gameTime": "18:00:00",
+        "name": null,
+        "startMessage": "The Crimson Rift has opened in Auroria.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T09:20:00.000Z",
+        "endTime": "2021-08-24T09:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "14:20:00",
+        "duration": "00:10:00",
+        "gameTime": "18:00:00",
+        "name": null,
+        "startMessage": "The Crimson Rift has opened in Auroria.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T13:20:00.000Z",
+        "endTime": "2021-08-24T13:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "18:20:00",
+        "duration": "00:10:00",
+        "gameTime": "18:00:00",
+        "name": null,
+        "startMessage": "The Crimson Rift has opened in Auroria.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T17:20:00.000Z",
+        "endTime": "2021-08-24T17:30:00.000Z"
+      },
+      {
+        "region": null,
+        "time": "22:20:00",
+        "duration": "00:10:00",
+        "gameTime": "18:00:00",
+        "name": null,
+        "startMessage": "The Crimson Rift has opened in Auroria.",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Crimson Rift will be opening in Auroria in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T21:20:00.000Z",
+        "endTime": "2021-08-24T21:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/honor-dailies#crimson-rift",
+    "disabled": false,
+    "timer": "2021-08-24T21:20:00.000Z",
+    "activeTime": null
+  },
+  {
+    "id": 31,
+    "name": "Akasch Invasion",
+    "icon": "ipyna",
+    "eventType": 5,
+    "times": [
+      {
+        "region": "EU",
+        "time": "20:30:00",
+        "duration": "00:40:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "FRIDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T19:30:00.000Z",
+        "endTime": "2021-08-23T20:10:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "03:30:00",
+        "duration": "00:40:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "TUESDAY",
+          "SATURDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": null,
+    "disabled": true,
+    "timer": "2021-08-27T19:30:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "EU",
+      "time": "19:30:00",
+      "duration": "00:40:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "FRIDAY",
+        "SATURDAY"
+      ],
+      "startTime": "2021-08-27T19:30:00.000Z",
+      "endTime": "2021-08-27T20:10:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 32,
+    "name": "Halcyona Skirmish",
+    "icon": "camp3",
+    "eventType": 1,
+    "times": [
+      {
+        "region": "EU",
+        "time": "17:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "22:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "00:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "05:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": null,
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 33,
+    "name": "Land Rush",
+    "icon": "pioneer",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "20:00:00",
+        "duration": null,
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "11:00:00",
+        "duration": null,
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ]
+      }
+    ],
+    "description": "",
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 34,
+    "name": "Animal Placement Program",
+    "icon": "event",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "07:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "02:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "14:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "19:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "The pawesome festival in Windscour needs your help at Windheart Lake.",
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 35,
+    "name": "Reedwind",
+    "icon": "boss_monster",
+    "eventType": 7,
+    "times": [
+      {
+        "region": "NA",
+        "time": "00:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "02:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "04:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "06:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "08:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "10:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "12:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "14:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "16:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "18:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "20:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "NA",
+        "time": "22:26:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "01:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "03:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "05:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "07:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "09:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "11:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "13:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "15:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "17:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "19:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "21:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+      {
+        "region": "EU",
+        "time": "23:37:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Reedwind enters war for 50 minutes every other hour.",
+    "link": null,
+    "disabled": true
+  },
+  {
+    "id": 36,
+    "name": "Enraged Dragons Hunt",
+    "icon": "dragon_black",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/game-event-enraged-dragons-hunt.9599/",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 37,
+    "name": "Hasla Zombie Apocalypse",
+    "icon": "crimson_rift_zombie",
+    "eventType": 2,
+    "times": [
+      {
+        "region": "NA",
+        "time": "17:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": "(1 Veterans Rifts)",
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": "(1 Strangers Rift)",
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },{
+        "region": "NA",
+        "time": "00:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": "(2 Veterans Rifts)",
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-hasla-zombie-apocalypse.4536/",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 39,
+    "name": "The Merchants Day!",
+    "icon": "pack",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "FRIDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-the-merchants-day.8578/",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 40,
+    "name": "The Fishers Day!",
+    "icon": "fish_fest",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-the-fishers-day.8577/",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 41,
+    "name": "Treasures Hunter Day!",
+    "icon": "pouch",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "24:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/index.php?threads/game-event-treasures-hunter-day.8637/",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 42,
+    "name": "Sea Spirit General",
+    "icon": "boss_monster",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "17:30:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:30:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "THURSDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-76568",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 43,
+    "name": "Aragog",
+    "icon": "boss_monster",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "15:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "01:30:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/post-78715",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 44,
+    "name": "Harbinger",
+    "icon": "boss_monster",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "17:30:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:30:00",
+        "duration": "00:45:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-23T00:00:00.000Z",
+        "endTime": "2021-08-23T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/events-mini-guide.8861/#post-76568",
+    "disabled": false,
+    "timer": "2021-08-25T00:00:00.000Z",
+    "activeTime": null,
+    "nextTime": {
+      "region": "NA",
+      "time": "00:00:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "FRIDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T00:00:00.000Z",
+      "endTime": "2021-08-25T00:30:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 45,
+    "name": "Rock'n'Scroll",
+    "icon": "ruby",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "00:40:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "Until June, 21st, 2022",
+    "link": "https://na.archerage.to/forums/threads/game-event-rocknscroll.10857/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": false
+  },
+  {
+    "id": 46,
+    "name": "Wonderland Races",
+    "icon": "cart",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/game-event-wonderland-races.11055/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": false
+  },
+  {
+    "id": 47,
+    "name": "Advertise With Us!",
+    "icon": "event",
+    "eventType": 9,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "144:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "Starting March, 31st, 2022",
+    "link": "https://na.archerage.to/forums/threads/forum-event-advertise-with-us.10697/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 48,
+    "name": "Art Competition",
+    "icon": "aria_concert",
+    "eventType": 9,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "144:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "June, 5th - June, 25nd, 2022",
+    "link": "https://na.archerage.to/forums/threads/forum-event-art-competition.10843/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 49,
+    "name": "Ahnimar Founder's Festival",
+    "icon": "archeage_green",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "144:40:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(June, 21st - July, 4th, 2022)",
+    "link": "https://na.archerage.to/forums/threads/game-event-ahnimar-founders-festival.9501/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 50,
+    "name": "Fishing Tournament",
+    "icon": "fish_fest",
+    "eventType": 9,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "144:40:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(June, 28st - July, 11th, 2022)",
+    "link": "https://na.archerage.to/forums/threads/game-event-fishing-tournament-summer-2022.10872",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+  "id": 51,
+  "name": "Boss Waking Nightmare",
+  "icon": "boss_monster",
+  "eventType": 10,
+  "times": [
+    {
+      "region": "NA",
+      "time": "18:30:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2022-06-14T00:00:00.000Z",
+      "endTime": "2022-06-21T00:30:00.000Z"
+    },
+    {
+      "region": "NA",
+      "time": "02:30:00",
+      "duration": "00:30:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": null,
+      "reminderTime": "00:15:00",
+      "reminderMessage": null,
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2022-06-14T00:00:00.000Z",
+      "endTime": "2022-06-21T00:30:00.000Z"
+    }
+  ],
+  "description": "Waking Nightmare",
+  "link": "https://na.archerage.to/forums/threads/new-zone-wonderland.10685/post-85417",
+  "disabled": false,
+  "timer": "2022-06-21T00:00:00.000Z",
+  "activeTime": true
+},
+  {
+    "id": 52,
+    "name": "Wonderland Treasure",
+    "icon": "event",
+    "eventType": 10,
+    "times": [
+      {
+        "region": "NA",
+        "time": "23:30:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "21:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "Waking Nightmare",
+    "link": "https://na.archerage.to/forums/threads/new-zone-wonderland.10685/post-85417",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 53,
+    "name": "Miraculous Races",
+    "icon": "event",
+    "eventType": 10,
+    "times": [
+      {
+        "region": "NA",
+        "time": "07:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "13:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "01:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "Waking Nightmare",
+    "link": "https://na.archerage.to/forums/threads/new-zone-wonderland.10685/post-85417",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 54,
+    "name": "Summertime Madness",
+    "icon": "event",
+    "eventType": 9,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "144:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "Last day of the event – August, 27th",
+    "link": "https://na.archerage.to/forums/threads/forum-event-summertime-madness-handmade-contest.10909/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 55,
+    "name": "Rum Runner Rapids Surin and Farmer",
+    "icon": "other",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "A Lack of Melons and Aerial Delivery",
+    "link": "https://na.archerage.to/forums/threads/game-event-rum-runner-rapids.6455/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 56,
+    "name": "Giant Blueglass Monster",
+    "icon": "ocleera",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "03:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(August, 9th - August, 22nd, 2022)",
+    "link": "https://na.archerage.to/forums/threads/game-event-blue-salt-festival.5682/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 57,
+    "name": "Titan’s Followers",
+    "icon": "crimson_rift_titan",
+    "eventType": 2,
+    "times": [
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "08:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "11:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "14:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "17:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "20:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+          "FRIDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(April, 11th - May, 7th, 2023)",
+    "link": "https://na.archerage.to/forums/threads/game-event-titans-attack.7777/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 58,
+    "name": "Titan Crow Sealing",
+    "icon": "boss_monster_titan",
+    "eventType": 4,
+    "times": [
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+          "SATURDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "THURSDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "(April, 11th - May, 7th, 2023)",
+    "link": "https://na.archerage.to/forums/threads/game-event-titans-attack.7777/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  },
+  {
+    "id": 59,
+    "name": "Dragons Festival",
+    "icon": "dragon_green",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Dragons Festival have started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Dragons Festival will awaken in the Ahnimar in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Dragons Festival have started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Dragons Festival will awaken in the Ahnimar in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Dragons Festival have started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Dragons Festival will awaken in the Ahnimar in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      }
+    ],
+    "description": "(March, 7th - March, 27th, 2023)",
+    "link": "https://na.archerage.to/forums/threads/festival-dragons-festival.8079/",
+    "disabled": true,
+    "timer": "2021-08-24T21:00:00.000Z",
+    "nextTime": {
+      "region": "NA",
+      "time": "21:00:00",
+      "duration": "01:00:00",
+      "gameTime": null,
+      "name": null,
+      "startMessage": "The Lusca have awoken in the Sea of Graves.",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Lusca will awaken in the Sea of Graves in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-25T20:00:00.000Z",
+      "endTime": "2021-08-25T21:00:00.000Z",
+      "tomorrow": true
+    }
+  },
+  {
+    "id": 60,
+    "name": "Gladiator Death Match Tournament",
+    "icon": "mistmerrow",
+    "eventType": 8,
+    "times": [
+      {
+        "region": "NA",
+        "time": "20:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/gladiator-death-match-tournament-revamp.10974/",
+    "disabled": false,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": false
+  },{
+  "id": 61,
+  "name": "Language Instructor",
+  "icon": "aria_concert",
+  "eventType": 6,
+  "times": [
+    {
+      "region": null,
+      "time": "00:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T00:20:00.000Z",
+      "endTime": "2021-08-24T00:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "04:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T04:20:00.000Z",
+      "endTime": "2021-08-24T04:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "08:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T08:20:00.000Z",
+      "endTime": "2021-08-24T08:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "12:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T12:20:00.000Z",
+      "endTime": "2021-08-24T12:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "16:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T16:20:00.000Z",
+      "endTime": "2021-08-24T16:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "20:00:00",
+      "duration": "01:30:00",
+      "gameTime": "10:00:00",
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "TUESDAY",
+        "WEDNESDAY",
+        "THURSDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T20:20:00.000Z",
+      "endTime": "2021-08-24T20:30:00.000Z"
+    }
+  ],
+  "description": null,
+  "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=567381029",
+  "disabled": false,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null,
+  "nextTime": {
+    "region": null,
+    "time": "00:00:00",
+    "duration": "01:30:00",
+    "gameTime": "10:00:00",
+    "name": "",
+    "startMessage": "The Language Instructor",
+    "reminderTime": "00:15:00",
+    "reminderMessage": "The Language Instructor be opening in Nuia and Haranya in $1.",
+    "days": [
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY",
+      "SATURDAY",
+      "SUNDAY"
+    ],
+    "startTime": "2021-08-25T00:20:00.000Z",
+    "endTime": "2021-08-25T00:30:00.000Z",
+    "tomorrow": true
+  }
+},{
+  "id": 62,
+  "name": "Akasch Invasion",
+  "icon": "ipyna",
+  "eventType": 2,
+  "times": [
+    {
+      "region": null,
+      "time": "12:30:00",
+      "duration": "00:40:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "The Akasch Invasion",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Akasch Invasion be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "SATURDAY"
+      ],
+      "startTime": "2021-08-24T00:20:00.000Z",
+      "endTime": "2021-08-24T00:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "20:30:00",
+      "duration": "00:40:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "The Akasch Invasion",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Akasch Invasion be opening in Nuia and Haranya in $1.",
+      "days": [
+        "MONDAY",
+        "WEDNESDAY",
+        "SATURDAY"
+      ],
+      "startTime": "2021-08-24T04:20:00.000Z",
+      "endTime": "2021-08-24T04:30:00.000Z"
+    },
+    {
+      "region": null,
+      "time": "01:30:00",
+      "duration": "00:40:00",
+      "gameTime": null,
+      "name": "",
+      "startMessage": "The Language Instructor",
+      "reminderTime": "00:15:00",
+      "reminderMessage": "The Akasch Invasion be opening in Nuia and Haranya in $1.",
+      "days": [
+        "TUESDAY",
+        "THURSDAY",
+        "SUNDAY"
+      ],
+      "startTime": "2021-08-24T08:20:00.000Z",
+      "endTime": "2021-08-24T08:30:00.000Z"
+    }
+  ],
+  "description": null,
+  "link": "https://na.archerage.to/forums/threads/archerage-7-5-global-update-akasch-invasion-patch-notes.11219/#post-88317",
+  "disabled": false,
+  "timer": "2021-08-25T00:20:00.000Z",
+  "activeTime": null,
+  "nextTime": {
+    "region": null,
+    "time": "00:00:00",
+    "duration": "00:40:00",
+    "gameTime": "10:00:00",
+    "name": "",
+    "startMessage": "The Akasch Invasion",
+    "reminderTime": "00:15:00",
+    "reminderMessage": "The Akasch Invasion be opening in Nuia and Haranya in $1.",
+    "days": [
+      "MONDAY",
+      "WEDNESDAY",
+      "SATURDAY"
+    ],
+    "startTime": "2021-08-25T00:20:00.000Z",
+    "endTime": "2021-08-25T00:30:00.000Z",
+    "tomorrow": true
+  }
+},{
+    "id": 63,
+    "name": "Zodiac Quaini",
+    "icon": "other",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "15:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "22:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "04:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2022-06-14T00:00:00.000Z",
+        "endTime": "2022-06-21T00:30:00.000Z"
+      }
+    ],
+    "description": "A Lack of Melons and Aerial Delivery",
+    "link": "https://na.archerage.to/forums/threads/festival-zodiac-festival.9099/",
+    "disabled": true,
+    "timer": "2022-06-21T00:00:00.000Z",
+    "activeTime": true
+  }
+]
