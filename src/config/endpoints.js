@@ -27,7 +27,7 @@ export default {
     searchByProduct: '/service/search/product',
     searchByMaterial: '/service/search/material',
     event: '/service/events/${eventId}',
-    events: '/service/eventsNoDST.json',
+    events: '/service/eventsDST.json',
     eventTypes: '/service/types.json',
     users: '/service/users?usernames=${names}',
     skills: '/service/skills?ids=${skillIds}',
