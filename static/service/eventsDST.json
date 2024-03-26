@@ -6272,5 +6272,80 @@
     "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
+  },
+  {
+    "id": 64,
+    "name": "Golden Eggs",
+    "icon": "event",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "03:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Golden Egg Hunt has started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Golden Egg hunt will being in Mirage Isle in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "17:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "TThe Golden Egg Hunt has started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Dragons Festival will awaken in the Ahnimar in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "22:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Golden Egg Hunt has started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "The Golden Egg hunt will being in Mirage Isle in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      }
+    ],
+    "description": "(March, 26th - April, 8th, 2024)",
+    "link": "https://na.archerage.to/forums/threads/game-event-easter-festival.9619/",
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z"
   }
 ]
