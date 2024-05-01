@@ -3,15 +3,15 @@ export default [
     name: 'Schedule',
     path: '/schedule',
   },
-  // {
-  //   name: 'Calculators',
-  //   children: [
+   {
+     name: 'Calculators',
+     children: [
   //     { name: 'Skill Calculator', path: '/skills' },
   //     { name: 'Crafting Folio', path: '/folio' },
   //     { name: 'Trade Packs', path: '/trade-packs' },
-  //     { name: 'Land Tax', path: '/taxes' },
+       { name: 'Land Tax', path: '/taxes' },
   //     { name: 'Blue Salt Bonds', path: '/bonds' },
-  //   ],
+     ]
   // },
   // {
   //   name: 'Mounts',
@@ -24,7 +24,7 @@ export default [
   // {
   //   name: 'Dailies',
   //   path: '/dailies',
-  // },
+   },
   {
     name: 'Guides',
     path: '/guides',
@@ -50,5 +50,5 @@ export const banners = [
   // { name: 'Skill Builder', info: 'Build and share skillset setups.', path: '/skills' },
   // { name: 'Helper Gallery', info: 'See some sheet with infor', path: '/mounts' },
   // { name: 'My Farm Timers', info: 'Keep time of your planted crops, trees, and livestock.', path: '/my-farm' },
-  // { name: 'Tax Calculator', info: 'Calculate the cost of property tax.', path: '/taxes' },
+  { name: 'Tax Calculator', info: 'Calculate the cost of property tax.', path: '/taxes' },
 ];
