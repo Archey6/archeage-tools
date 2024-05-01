@@ -1,1 +1,10 @@
-[]
+[
+{
+	id: 1,
+	"name": "Scarecrow Farm Design",
+	"image": "icon_house_013",
+	"size": "16m x 16m",
+	"deposit": "Security Deposit: 15",
+	"taxes": "Taxes: 10 Tax Certificates"
+}
+]
