@@ -5223,7 +5223,7 @@
     ],
     "description": "Starting March, 31st, 2022",
     "link": "https://na.archerage.to/forums/threads/forum-event-advertise-with-us.10697/",
-    "disabled": true,
+    "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   },
