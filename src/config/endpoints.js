@@ -12,7 +12,7 @@ export default {
     newComment: '/service/comment',
     comment: '/service/comment/${commentId}',
     comments: '/service/comment/byPost/${postId}',
-    item: 'https://raw.githubusercontent.com/Archey6/archeage-tools/test-data/static/service/items.json?ids=${itemIds}',
+    item: 'https://qkpjfbkv29.execute-api.us-east-2.amazonaws.com/dev/api/item?ids=${itemIds}',
     itemCrops: '/service/items/crops',
     itemBuildings: 'https://raw.githubusercontent.com/Archey6/archeage-tools/test-data/static/service/buildings.json',
     recipeByProduct: '/service/recipe/product/${itemId}',
