@@ -43,7 +43,7 @@ class Item extends Component {
 
   render() {
     const { id, name, icon, count, defaultGrade, overlay, inline, tooltipDisabled, showCount } = this.props;
-	console.log({ id, name, icon, count, defaultGrade, overlay, inline, tooltipDisabled, showCount })
+	console.log({ id, name, icon, count, defaultGrade, overlay, inline, tooltipDisabled, showCount });
     let { grade } = this.props;
     if (defaultGrade !== grade && defaultGrade > 1) {
       grade = defaultGrade;
