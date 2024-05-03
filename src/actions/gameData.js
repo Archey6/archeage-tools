@@ -80,6 +80,7 @@ export const fetchItems = (...items) => (dispatch, getState) => {
     .then(({ data }) => {
 	  console.log({ data });
 	  console.log('1111');
+	  console.log({ type: DATA_ITEM, data: arrayToMap(data) });
       dispatch({ type: DATA_ITEM, data: arrayToMap(data) });
     })
     .catch(() => {
