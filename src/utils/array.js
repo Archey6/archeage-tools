@@ -47,6 +47,7 @@ export const sortNumber = (a, b) => a - b;
  * @returns {object}
  */
 export const arrayToMap = (array, key = 'id') => array.reduce((obj, item) => {
+  console.log(array);
   obj[item[key]] = item;
   return obj;
 }, {});
