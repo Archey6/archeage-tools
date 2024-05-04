@@ -80,7 +80,7 @@ export const fetchItems = (...items) => (dispatch, getState) => {
     .then(({ data }) => {
 	  console.log({ data });
 	  console.log('1111');
-	  console.log(arrayToMap(data));
+	  console.log(arrayToMap(data)); //something is wrong with how this is dispatching the data
       dispatch({ type: DATA_ITEM, data: arrayToMap(data) });
     })
     .catch(() => {
