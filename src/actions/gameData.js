@@ -73,14 +73,9 @@ export const fetchItems = (...items) => (dispatch, getState) => {
   const chunk = 100;
   for (let i = 0, j = itemIds.length; i < j; i += chunk) {
     const itemIdStr = itemIds.slice(i, i + chunk).join(',');
-	console.log('0000');
-	console.log(substitute(config.endpoints.service.item, { itemIds: itemIdStr }));
-	console.log('0000');
+	
     xhr.get(substitute(config.endpoints.service.item, { itemIds: itemIdStr }))
     .then(({ data }) => {
-	  console.log({ data });
-	  console.log('1111');
-	  console.log(arrayToMap(data)); //something is wrong with how this is dispatching the data
       dispatch({ type: DATA_ITEM, data: arrayToMap(data) });
     })
     .catch(() => {
@@ -120,9 +115,11 @@ export const fetchBuildingItems = () => (dispatch, getState) => {
 
   // do not fetch again
   if (buildings.length > 0) return;
-
+  console.log(config.endpoints.service.itemBuildings);
+  console.log('1----');
   xhr.get(config.endpoints.service.itemBuildings)
   .then(({ data: buildingIds }) => {
+	console.log({ data: buildingIds });
     dispatch(fetchItems(buildingIds));
     dispatch({ type: DATA_BUILDINGS, buildings: buildingIds });
   });
