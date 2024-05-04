@@ -14,7 +14,7 @@ export default {
     comments: '/service/comment/byPost/${postId}',
     item: 'https://qkpjfbkv29.execute-api.us-east-2.amazonaws.com/dev/api/item?ids=${itemIds}',
     itemCrops: '/service/items/crops',
-    itemBuildings: 'https://raw.githubusercontent.com/Archey6/archeage-tools/test-data/static/service/buildings.json',
+    itemBuildings: 'https://qkpjfbkv29.execute-api.us-east-2.amazonaws.com/dev/api/items/buildings',
     recipeByProduct: '/service/recipe/product/${itemId}',
     recipeSearchByProduct: '/service/recipe/product',
     recipeByMaterial: '/service/recipe/material/${itemId}',
