@@ -23,7 +23,7 @@ export default {
     recipe: '/service/recipe?ids=${recipeIds}',
     recipeCategories: '/service/recipe/categories',
     recipeByCategory: '/service/recipe/categories/${category}?cat1=${subCat1}&cat2=${subCat2}',
-    vocations: '/service/vocations',
+    vocations: 'https://qkpjfbkv29.execute-api.us-east-2.amazonaws.com/dev/api/vocations',
     searchByProduct: '/service/search/product',
     searchByMaterial: '/service/search/material',
     event: '/service/events/${eventId}',
