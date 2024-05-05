@@ -77,6 +77,7 @@ export const fetchItems = (...items) => (dispatch, getState) => {
 	console.log(substitute(config.endpoints.service.item, { itemIds: itemIdStr }));
     xhr.get(substitute(config.endpoints.service.item, { itemIds: itemIdStr }))
     .then(({ data }) => {
+	  console.log({data});
       dispatch({ type: DATA_ITEM, data: arrayToMap(data) });
     })
     .catch(() => {
