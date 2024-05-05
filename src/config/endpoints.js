@@ -49,7 +49,7 @@ export default {
     continents: '/service/zones/continents',
     tradePacks: '/service/trade-packs',
     tradePackRef: '/service/trade-packs/reference',
-    servers: 'https://raw.githubusercontent.com/fernandogfo/archeage-tools/data/static/service/servers.json',
+    servers: 'https://qkpjfbkv29.execute-api.us-east-2.amazonaws.com/dev/api/servers',
     bluesaltBonds: '/service/blue-salt-bonds',
     cargoTimer: 'https://raw.githubusercontent.com/fernandogfo/archeage-tools/data/static/service/cargo-ship.json',
   },
