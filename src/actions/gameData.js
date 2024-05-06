@@ -117,11 +117,11 @@ export const fetchBuildingItems = () => (dispatch, getState) => {
 
   // do not fetch again
   if (buildings.length > 0) return;
-  console.log(config.endpoints.service.itemBuildings);
-  console.log('1----');
+  //console.log(config.endpoints.service.itemBuildings);
+  //console.log('1----');
   xhr.get(config.endpoints.service.itemBuildings)
   .then(({ data: buildingIds }) => {
-	console.log({ data: buildingIds });
+	//console.log({ data: buildingIds });
     dispatch(fetchItems(buildingIds));
     dispatch({ type: DATA_BUILDINGS, buildings: buildingIds });
   });

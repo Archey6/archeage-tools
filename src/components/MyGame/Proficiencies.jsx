@@ -28,6 +28,9 @@ class Proficiencies extends Component {
 
   render() {
     const { updateProficiency, proficiencies, vocations } = this.props;
+	console.log({ updateProficiency, proficiencies, vocations } );
+	console.log('@@');
+	console.log(this.props);
     return (
       <div className="proficiency-wrapper">
         {Array.from(new Set(vocations.map(v => v.group))).filter(g => Boolean(g)).map(group => (
