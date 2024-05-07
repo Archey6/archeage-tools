@@ -28,22 +28,15 @@ class Proficiencies extends Component {
 
   render() {
     const { updateProficiency, proficiencies, vocations } = this.props;
-	console.log({ updateProficiency, proficiencies, vocations } );
-	console.log('@@');
-	console.log(this.props);
     return (
       <div className="proficiency-wrapper">
         {Array.from(new Set(vocations.map(v => v.group))).filter(g => Boolean(g)).map(group => (
           <div className="proficiency-group" key={`group-${group}`}>
             <Typography variant="h6">{group}</Typography>
             {vocations.filter(v => v.group === group).map(vocation => {
-			  console.log(vocation);
               const proficiency = proficiencies[vocation.name] || 0;
-			  console.log(proficiency);
               const rank = PROFICIENCY_RANK.find(r => r.maxValue >= proficiency);
-			  console.log(rank);
               const rankIndex = PROFICIENCY_RANK.indexOf(rank);
-			  console.log(rankIndex);
               const minProficiency = rankIndex === 0 ? 0 : PROFICIENCY_RANK[rankIndex - 1].maxValue;
               const barPercent = (proficiency - minProficiency) / (rank.maxValue - minProficiency);
               return (

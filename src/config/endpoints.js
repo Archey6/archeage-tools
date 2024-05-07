@@ -46,7 +46,7 @@ export default {
     npc: '/service/npcs?ids=${npcIds}',
     doodad: '/service/doodads?ids=${doodadIds}',
     climates: '/service/zones/climates',
-    continents: '/service/zones/continents',
+    continents: 'https://qkpjfbkv29.execute-api.us-east-2.amazonaws.com/dev/api/continents',
     tradePacks: '/service/trade-packs',
     tradePackRef: '/service/trade-packs/reference',
     servers: 'https://qkpjfbkv29.execute-api.us-east-2.amazonaws.com/dev/api/servers',
