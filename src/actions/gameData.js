@@ -625,6 +625,7 @@ export const fetchContinents = () => (dispatch, getState) => {
 
   xhr.get(config.endpoints.service.continents)
   .then(({ data }) => {
+	console.log({data});
     let zones = [];
     data.forEach(continent => {
       zones = zones.concat(continent.zones);
