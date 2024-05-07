@@ -490,7 +490,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "00:15:00",
+        "time": "23:00:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -499,11 +499,8 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
-          "TUESDAY",
           "WEDNESDAY",
-          "THURSDAY",
           "FRIDAY",
-          "SATURDAY",
           "SUNDAY"
         ]
       },
@@ -518,11 +515,8 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
-          "TUESDAY",
           "WEDNESDAY",
-          "THURSDAY",
           "FRIDAY",
-          "SATURDAY",
           "SUNDAY"
         ],
         "startTime": "2021-08-24T19:45:00.000Z",
@@ -539,11 +533,8 @@
         "reminderMessage": null,
         "days": [
           "MONDAY",
-          "TUESDAY",
           "WEDNESDAY",
-          "THURSDAY",
           "FRIDAY",
-          "SATURDAY",
           "SUNDAY"
         ]
       }
