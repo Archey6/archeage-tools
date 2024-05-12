@@ -141,6 +141,7 @@ class Taxes extends Component {
     const buildingOptions = {};
     Object.entries(items).forEach(([itemId, item]) => {
       const [, name] = (item.name.match(BUILDING_NAME_REGEX) || [null, null]);
+	  console.log(name);
       if (!hasProperty(buildingOptions, name)) {
         buildingOptions[name] = createBuilding(itemId);
       }
