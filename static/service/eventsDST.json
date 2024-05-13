@@ -5895,7 +5895,7 @@
     ],
     "description": "(March, 12th - April, 1st, 2024)",
     "link": "https://na.archerage.to/forums/threads/festival-dragons-festival.8079/",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-24T21:00:00.000Z",
     "nextTime": {
       "region": "NA",
