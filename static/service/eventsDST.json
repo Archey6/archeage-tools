@@ -6338,5 +6338,80 @@
     "link": "https://na.archerage.to/forums/threads/game-event-easter-festival.9619/",
     "disabled": false,
     "timer": "2021-08-24T21:00:00.000Z"
+  },
+  {
+    "id": 64,
+    "name": "Golden Eggs",
+    "icon": "event",
+    "eventType": 6,
+    "times": [
+      {
+        "region": "NA",
+        "time": "12:30:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Golden Egg Hunt has started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "Old Tom will appear in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "TThe Golden Egg Hunt has started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "Old Tom will appear in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "05:00:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": "The Golden Egg Hunt has started",
+        "reminderTime": "00:15:00",
+        "reminderMessage": "Old Tom will appear in $1.",
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T20:00:00.000Z",
+        "endTime": "2021-08-24T21:00:00.000Z"
+      }
+    ],
+    "description": "(May14th - May, 27th, 2024)",
+    "link": "https://na.archerage.to/forums/threads/game-event-free-winds-festival.11117/",
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z"
   }
 ]
