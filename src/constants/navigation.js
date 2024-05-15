@@ -44,8 +44,8 @@ export default [
 
 export const banners = [
   { name: 'Event Schedule', info: 'Timers and schedule for daily events.', path: '/schedule' },
-  // { name: 'Crafting Folio', info: 'View the crafting folio and plan out recipes.', path: '/folio' },
-  // { name: 'Trade Pack Calculator', info: 'Calculate that sweet pack run money.', path: '/trade-packs' },
+  { name: 'Crafting Folio', info: 'View the crafting folio and plan out recipes.', path: '/folio' },
+  { name: 'Trade Pack Calculator', info: 'Calculate that sweet pack run money.', path: '/trade-packs' },
   { name: 'Daily Checklist', info: 'Keep track of your daily quests.', path: '/dailies' },
   // { name: 'Skill Builder', info: 'Build and share skillset setups.', path: '/skills' },
   // { name: 'Helper Gallery', info: 'See some sheet with infor', path: '/mounts' },
