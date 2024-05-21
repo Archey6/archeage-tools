@@ -261,6 +261,8 @@ export const fetchCategories = () => (dispatch, getState) => {
 
   xhr.get(config.endpoints.service.recipeCategories)
   .then(({ data }) => {
+	Console.log(data);
+	Console.log({ type: DATA_CATEGORIES, categories: arrayToMap(data.categories), subCategories: arrayToMap(data.types) });
     dispatch({ type: DATA_CATEGORIES, categories: arrayToMap(data.categories), subCategories: arrayToMap(data.types) });
   })
   .catch(() => {
