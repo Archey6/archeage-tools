@@ -6265,7 +6265,7 @@
     "activeTime": true
   },
   {
-    "id": 65,
+    "id": 64,
     "name": "Old Tom",
     "icon": "event",
     "eventType": 6,
@@ -6278,7 +6278,7 @@
         "name": null,
         "startMessage": "The Old Tom Hunt has started",
         "reminderTime": "00:15:00",
-        "reminderMessage": "The Old Tom hunt will being in Mirage Isle in $1.",
+        "reminderMessage": "The Old Tom hunt will being in Wonderland in $1.",
         "days": [
           "MONDAY",
           "TUESDAY",
@@ -6299,7 +6299,7 @@
         "name": null,
         "startMessage": "The Old Tom Hunt has started",
         "reminderTime": "00:15:00",
-        "reminderMessage": "The Old Tom hunt will being in Mirage Isle in $1.",
+        "reminderMessage": "The Old Tom hunt will being in Wonderland in $1.",
         "days": [
           "MONDAY",
           "TUESDAY",
@@ -6320,7 +6320,7 @@
         "name": null,
         "startMessage": "TThe Old Tom Hunt has started",
         "reminderTime": "00:15:00",
-        "reminderMessage": "The Old Tom hunt will being in Mirage Isle in $1.",
+        "reminderMessage": "The Old Tom hunt will being in Wonderland in $1.",
         "days": [
           "MONDAY",
           "TUESDAY",
@@ -6335,81 +6335,6 @@
       }
     ],
     "description": "(March, 26th - April, 8th, 2024)",
-    "link": "https://na.archerage.to/forums/threads/game-event-easter-festival.9619/",
-    "disabled": false,
-    "timer": "2021-08-24T21:00:00.000Z"
-  },
-  {
-    "id": 64,
-    "name": "Golden Eggs",
-    "icon": "event",
-    "eventType": 6,
-    "times": [
-      {
-        "region": "NA",
-        "time": "12:30:00",
-        "duration": "00:15:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": "The Golden Egg Hunt has started",
-        "reminderTime": "00:15:00",
-        "reminderMessage": "Old Tom will appear in $1.",
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
-        ],
-        "startTime": "2021-08-24T20:00:00.000Z",
-        "endTime": "2021-08-24T21:00:00.000Z"
-      },
-      {
-        "region": "NA",
-        "time": "12:00:00",
-        "duration": "00:15:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": "TThe Golden Egg Hunt has started",
-        "reminderTime": "00:15:00",
-        "reminderMessage": "Old Tom will appear in $1.",
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
-        ],
-        "startTime": "2021-08-24T20:00:00.000Z",
-        "endTime": "2021-08-24T21:00:00.000Z"
-      },
-      {
-        "region": "NA",
-        "time": "05:00:00",
-        "duration": "00:15:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": "The Golden Egg Hunt has started",
-        "reminderTime": "00:15:00",
-        "reminderMessage": "Old Tom will appear in $1.",
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
-        ],
-        "startTime": "2021-08-24T20:00:00.000Z",
-        "endTime": "2021-08-24T21:00:00.000Z"
-      }
-    ],
-    "description": "(May14th - May, 27th, 2024)",
     "link": "https://na.archerage.to/forums/threads/game-event-free-winds-festival.11117/",
     "disabled": false,
     "timer": "2021-08-24T21:00:00.000Z"
