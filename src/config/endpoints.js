@@ -22,7 +22,7 @@ export default {
     recipeByVocation: '/service/recipe/vocation/${vocation}',
     recipe: 'https://dev.archey.ca/api/recipe?ids=${recipeIds}',
     recipeCategories: 'https://dev.archey.ca/api/recipe/categories',
-    recipeByCategory: '/service/recipe/categories/${category}?cat1=${subCat1}&cat2=${subCat2}',
+    recipeByCategory: 'https://dev.archey.ca/api/recipe/categories/${category}?cat1=${subCat1}&cat2=${subCat2}',
     vocations: 'https://dev.archey.ca/api/vocations',
     searchByProduct: '/service/search/product',
     searchByMaterial: '/service/search/material',
