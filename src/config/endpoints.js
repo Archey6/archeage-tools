@@ -16,7 +16,7 @@ export default {
     itemCrops: '/service/items/crops',
     itemBuildings: 'https://dev.archey.ca/api/items/buildings',
     recipeByProduct: 'https://dev.archey.ca/api/recipe/product/${itemId}',
-    recipeSearchByProduct: '/service/recipe/product',
+    recipeSearchByProduct: 'https://dev.archey.ca/api/recipe/product',
     recipeByMaterial: 'https://dev.archey.ca/api/recipe/material/${itemId}',
     recipeSearchByMaterial: '/service/recipe/material',
     recipeByVocation: 'https://dev.archey.ca/api/recipe/vocation/${vocation}',
