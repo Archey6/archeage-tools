@@ -142,7 +142,7 @@ class RecipeList extends Component {
         }
         return false;
       };
-
+	  console.log(recipeList);
       recipeList.some(searchCat);
 
       if (category === null) {
