@@ -18,7 +18,7 @@ export default {
     recipeByProduct: 'https://dev.archey.ca/api/recipe/product/${itemId}',
     recipeSearchByProduct: 'https://dev.archey.ca/api/recipe/product',
     recipeByMaterial: 'https://dev.archey.ca/api/recipe/material/${itemId}',
-    recipeSearchByMaterial: '/service/recipe/material',
+    recipeSearchByMaterial: 'https://dev.archey.ca/api/recipe/material',
     recipeByVocation: 'https://dev.archey.ca/api/recipe/vocation/${vocation}',
     recipe: 'https://dev.archey.ca/api/recipe?ids=${recipeIds}',
     recipeCategories: 'https://dev.archey.ca/api/recipe/categories',
