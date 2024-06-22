@@ -24,7 +24,7 @@ export default {
     recipeCategories: 'https://dev.archey.ca/api/recipe/categories',
     recipeByCategory: 'https://dev.archey.ca/api/recipe/categories/${category}?cat1=${subCat1}&cat2=${subCat2}',
     vocations: 'https://dev.archey.ca/api/vocations',
-    searchByProduct: 'https://dev.archey.ca/api/search/product/${recipeId}',
+    searchByProduct: 'https://dev.archey.ca/api/search/product/',
     searchByMaterial: 'https://dev.archey.ca/api/search/material',
     event: '/service/events/${eventId}',
     events: 'https://raw.githubusercontent.com/Archey6/archeage-tools/test-data/static/service/events.json',
