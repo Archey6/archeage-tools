@@ -5633,7 +5633,7 @@
     ],
     "description": "(August, 9th - August, 22nd, 2022)",
     "link": "https://na.archerage.to/forums/threads/game-event-blue-salt-festival.5682/",
-    "disabled": true,
+    "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   },
@@ -6453,7 +6453,7 @@
     ],
     "description": "For the fireworks, you’ll need Golden Ilidia Leaves as one of the ingredients. Don’t miss them!",
     "link": "https://na.archerage.to/forums/threads/game-event-soccer-mini-event.10185/",
-    "disabled": false,
+    "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   }
