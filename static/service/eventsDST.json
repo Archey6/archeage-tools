@@ -5772,9 +5772,9 @@
         "endTime": "2022-06-21T00:30:00.000Z"
       }
     ],
-    "description": "(April, 11th - May, 7th, 2023)",
+    "description": "(August, 20th - September, 16th, 2024)",
     "link": "https://na.archerage.to/forums/threads/game-event-titans-attack.7777/",
-    "disabled": true,
+    "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   },
@@ -5817,9 +5817,9 @@
         "endTime": "2022-06-21T00:30:00.000Z"
       }
     ],
-    "description": "(April, 11th - May, 7th, 2023)",
+    "description": "(August, 20th - September, 16th, 2024)",
     "link": "https://na.archerage.to/forums/threads/game-event-titans-attack.7777/",
-    "disabled": true,
+    "disabled": false,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
   },
