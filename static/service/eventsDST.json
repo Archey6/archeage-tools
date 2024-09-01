@@ -1523,6 +1523,333 @@
     ],
     "description": null,
     "link": "/guides/honor-dailies#golden-plains-battle",
+    "disabled": true,
+    "timer": "2021-08-24T23:30:00.000Z",
+    "activeTime": null
+  },
+  {
+    "id": 15,
+    "name": "Golden Plains Battle",
+    "icon": "goldplain",
+    "eventType": 1,
+    "times": [
+	  {
+        "region": "NA",
+        "time": "02:30:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+			"WEDNESDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+			"WEDNESDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+			"WEDNESDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "00:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "THURSDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+			"THURSDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "THURSDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+			"FRIDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "18:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "FRIDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "16:30:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+      {
+        "region": "NA",
+        "time": "12:30:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },{
+        "region": "NA",
+        "time": "16:30:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "12:00:00",
+        "duration": "00:30:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY"
+        ],
+        "startTime": "2021-08-24T23:00:00.000Z",
+        "endTime": "2021-08-25T00:30:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "/guides/honor-dailies#golden-plains-battle",
     "disabled": false,
     "timer": "2021-08-24T23:30:00.000Z",
     "activeTime": null
