@@ -1831,21 +1831,6 @@
         ],
         "startTime": "2021-08-24T23:00:00.000Z",
         "endTime": "2021-08-25T00:30:00.000Z"
-      },
-	  {
-        "region": "NA",
-        "time": "12:00:00",
-        "duration": "00:30:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "SUNDAY"
-        ],
-        "startTime": "2021-08-24T23:00:00.000Z",
-        "endTime": "2021-08-25T00:30:00.000Z"
       }
     ],
     "description": null,
