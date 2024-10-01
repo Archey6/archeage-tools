@@ -2593,13 +2593,13 @@
         "reminderTime": "00:15:00",
         "reminderMessage": "Anthalon will spawn in the Garden in $1.",
         "days": [
-          "SUNDAY",
-          "MONDAY"
+          "THURSDAY",
+          "SUNDAY"
         ]
       },
       {
-        "region": "EU",
-        "time": "18:50:00",
+        "region": "NA",
+        "time": "17:00:00",
         "duration": "01:00:00",
         "gameTime": null,
         "name": null,
@@ -2607,8 +2607,7 @@
         "reminderTime": "00:15:00",
         "reminderMessage": "Anthalon will spawn in the Garden in $1.",
         "days": [
-          "SUNDAY",
-          "SATURDAY"
+          "SUNDAY"
         ],
         "startTime": "2021-08-22T18:50:00.000Z",
         "endTime": "2021-08-22T19:50:00.000Z"
@@ -3728,7 +3727,7 @@
     ],
     "description": "Garden enters war every 2 hours.",
     "link": null,
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-24T21:00:00.000Z",
     "activeTime": null
   },
@@ -6436,7 +6435,6 @@
       "reminderMessage": "The Akasch Invasion be opening in Nuia and Haranya in $1.",
       "days": [
         "MONDAY",
-        "WEDNESDAY",
         "SATURDAY"
       ],
       "startTime": "2021-08-24T00:20:00.000Z",
@@ -6453,7 +6451,6 @@
       "reminderMessage": "The Akasch Invasion be opening in Nuia and Haranya in $1.",
       "days": [
         "MONDAY",
-        "WEDNESDAY",
         "SATURDAY"
       ],
       "startTime": "2021-08-24T04:20:00.000Z",
@@ -6470,7 +6467,6 @@
       "reminderMessage": "The Akasch Invasion be opening in Nuia and Haranya in $1.",
       "days": [
         "TUESDAY",
-        "THURSDAY",
         "SUNDAY"
       ],
       "startTime": "2021-08-24T08:20:00.000Z",
@@ -6768,5 +6764,175 @@
     "disabled": true,
     "timer": "2022-06-21T00:00:00.000Z",
     "activeTime": true
+  },{
+    "id": 66,
+    "name": "Guardian Scramble",
+    "icon": "erosion_of_relics",
+    "eventType": 2,
+    "times": [
+      {
+        "region": "NA",
+        "time": "13:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "TUESDAY",
+		  "SUNDAY" 
+        ],
+        "startTime": "2021-08-24T19:29:00.000Z",
+        "endTime": "2021-08-24T21:29:00.000Z"
+      },
+	  {
+        "region": "NA",
+        "time": "02:00:00",
+        "duration": "01:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "WEDNESDAY",
+		  "MONDAY" 
+        ],
+        "startTime": "2021-08-24T19:29:00.000Z",
+        "endTime": "2021-08-24T21:29:00.000Z"
+      }
+    ],
+    "description": null,
+    "link": "https://na.archerage.to/forums/threads/archerage-9-0-global-update-the-great-prairie-of-the-west-patch-notes.11924/#post-94464",
+    "disabled": false,
+    "timer": "2021-08-24T21:29:00.000Z"
+  },
+  {
+    "id": 67,
+    "name": "Garden of the Gods",
+    "icon": "archeage_green",
+    "eventType": 7,
+    "times": [
+      {
+        "region": "NA",
+        "time": "07:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "11:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "15:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "19:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "23:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "03:00:00",
+        "duration": "00:50:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Garden enters war every 2 hours.",
+    "link": null,
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z",
+    "activeTime": null
   }
 ]
