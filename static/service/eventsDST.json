@@ -4353,8 +4353,8 @@
     "times": [
       {
         "region": "NA",
-        "time": "00:00:00",
-        "duration": "01:00:00",
+        "time": "18:00:00",
+        "duration": "00:10:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -4372,8 +4372,8 @@
       },
       {
         "region": "NA",
-        "time": "07:00:00",
-        "duration": "01:00:00",
+        "time": "23:00:00",
+        "duration": "00:10:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -4391,65 +4391,8 @@
       },
       {
         "region": "NA",
-        "time": "19:00:00",
-        "duration": "01:00:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
-        ]
-      },
-      {
-        "region": "EU",
-        "time": "02:00:00",
-        "duration": "01:00:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
-        ]
-      },
-      {
-        "region": "EU",
-        "time": "14:00:00",
-        "duration": "01:00:00",
-        "gameTime": null,
-        "name": null,
-        "startMessage": null,
-        "reminderTime": "00:15:00",
-        "reminderMessage": null,
-        "days": [
-          "MONDAY",
-          "TUESDAY",
-          "WEDNESDAY",
-          "THURSDAY",
-          "FRIDAY",
-          "SATURDAY",
-          "SUNDAY"
-        ]
-      },
-      {
-        "region": "EU",
-        "time": "19:00:00",
-        "duration": "01:00:00",
+        "time": "06:00:00",
+        "duration": "00:10:00",
         "gameTime": null,
         "name": null,
         "startMessage": null,
@@ -4468,7 +4411,7 @@
     ],
     "description": "The pawesome festival in Windscour needs your help at Windheart Lake.",
     "link": null,
-    "disabled": true
+    "disabled": false
   },
   {
     "id": 35,
