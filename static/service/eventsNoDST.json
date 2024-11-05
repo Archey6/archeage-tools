@@ -4411,7 +4411,7 @@
     ],
     "description": "The pawesome festival in Windscour needs your help at Windheart Lake.",
     "link": null,
-    "disabled": false
+    "disabled": true
   },
   {
     "id": 35,
