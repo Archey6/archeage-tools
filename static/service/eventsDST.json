@@ -4904,7 +4904,7 @@
     ],
     "description": null,
     "link": "https://na.archerage.to/forums/threads/game-event-enraged-dragons-hunt.9599/",
-    "disabled": true,
+    "disabled": false,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
     "nextTime": {
@@ -6149,7 +6149,7 @@
     ],
     "description": "(March, 12th - April, 1st, 2024)",
     "link": "https://na.archerage.to/forums/threads/festival-dragons-festival.8079/",
-    "disabled": true,
+    "disabled": false,
     "timer": "2021-08-24T21:00:00.000Z",
     "nextTime": {
       "region": "NA",
