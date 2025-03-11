@@ -4904,7 +4904,7 @@
     ],
     "description": null,
     "link": "https://na.archerage.to/forums/threads/game-event-enraged-dragons-hunt.9599/",
-    "disabled": false,
+    "disabled": true,
     "timer": "2021-08-25T00:00:00.000Z",
     "activeTime": null,
     "nextTime": {
