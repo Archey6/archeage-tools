@@ -6759,7 +6759,7 @@
     "times": [
       {
         "region": "NA",
-        "time": "07:00:00",
+        "time": "05:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -6778,7 +6778,7 @@
       },
 	  {
         "region": "NA",
-        "time": "11:00:00",
+        "time": "09:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -6797,7 +6797,7 @@
       },
 	  {
         "region": "NA",
-        "time": "15:00:00",
+        "time": "13:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -6816,7 +6816,7 @@
       },
 	  {
         "region": "NA",
-        "time": "19:00:00",
+        "time": "17:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -6835,7 +6835,7 @@
       },
 	  {
         "region": "NA",
-        "time": "23:00:00",
+        "time": "21:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
@@ -6854,7 +6854,7 @@
       },
 	  {
         "region": "NA",
-        "time": "03:00:00",
+        "time": "01:00:00",
         "duration": "00:50:00",
         "gameTime": null,
         "name": null,
