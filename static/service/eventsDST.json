@@ -6877,5 +6877,150 @@
     "disabled": false,
     "timer": "2021-08-24T21:00:00.000Z",
     "activeTime": null
+  },{
+    "id": 67,
+    "name": "Hiram Rift",
+    "icon": "erosion_of_relics",
+    "eventType": 2,
+    "times": [
+      {
+        "region": "NA",
+        "time": "21:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "01:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "05:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "09:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "13:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "14:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },
+	  {
+        "region": "NA",
+        "time": "17:30:00",
+        "duration": "02:00:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Hiram Rift every 4 hours",
+    "link": "https://na.archerage.to/forums/threads/archerage-9-5-global-update-expand-and-balance-patch-notes.12253/post-98078",
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z",
+    "activeTime": null
   }
 ]
