@@ -171,7 +171,7 @@
     "id": 3,
     "name": "Abyssal Attack",
     "icon": "abyssal_attack",
-    "eventType": 5,
+    "eventType": 2,
     "times": [
       {
         "region": "NA",
