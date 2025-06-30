@@ -7022,5 +7022,84 @@
     "disabled": false,
     "timer": "2021-08-24T21:00:00.000Z",
     "activeTime": null
+  },
+  {
+    "id": 67,
+    "name": "Guild Dungeon",
+    "icon": "camp5",
+    "eventType": 7,
+    "times": [
+      {
+        "region": "NA",
+        "time": "22:30:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },{
+        "region": "NA",
+        "time": "00:30:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "MONDAY"
+        ]
+      },{
+        "region": "NA",
+        "time": "02:30:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SUNDAY",
+          "MONDAY"
+        ]
+      },{
+        "region": "NA",
+        "time": "10:30:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      },{
+        "region": "NA",
+        "time": "19:30:00",
+        "duration": "00:15:00",
+        "gameTime": null,
+        "name": null,
+        "startMessage": null,
+        "reminderTime": "00:15:00",
+        "reminderMessage": null,
+        "days": [
+          "SATURDAY",
+          "SUNDAY"
+        ]
+      }
+    ],
+    "description": "Garden enters war every 2 hours.",
+    "link": null,
+    "disabled": false,
+    "timer": "2021-08-24T21:00:00.000Z",
+    "activeTime": null
   }
 ]
