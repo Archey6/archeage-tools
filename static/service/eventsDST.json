@@ -7027,7 +7027,7 @@
     "id": 67,
     "name": "Guild Dungeon",
     "icon": "camp5",
-    "eventType": 7,
+    "eventType": 1,
     "times": [
       {
         "region": "NA",
@@ -7096,7 +7096,7 @@
         ]
       }
     ],
-    "description": "Garden enters war every 2 hours.",
+    "description": "Guild dungeon",
     "link": null,
     "disabled": false,
     "timer": "2021-08-24T21:00:00.000Z",
