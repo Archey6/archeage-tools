@@ -111,7 +111,7 @@
         "reminderTime": "00:30:00",
         "reminderMessage": "Weekly quests and ArchePass mission count will reset in $1.",
         "days": [
-          "MONDAY"
+          "SUNDAY"
         ],
         "startTime": "2021-08-23T00:00:00.000Z",
         "endTime": "2021-08-23T00:00:00.000Z"
