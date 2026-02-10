@@ -7134,6 +7134,11 @@
         "reminderTime": "00:15:00",
         "reminderMessage": null,
         "days": [
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
           "SATURDAY",
           "SUNDAY"
         ]
@@ -7147,8 +7152,13 @@
         "reminderTime": "00:15:00",
         "reminderMessage": null,
         "days": [
-          "SUNDAY",
-          "MONDAY"
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
         ]
       },{
         "region": "NA",
@@ -7160,8 +7170,13 @@
         "reminderTime": "00:15:00",
         "reminderMessage": null,
         "days": [
-          "SUNDAY",
-          "MONDAY"
+          "MONDAY",
+          "TUESDAY",
+          "WEDNESDAY",
+          "THURSDAY",
+          "FRIDAY",
+          "SATURDAY",
+          "SUNDAY"
         ]
       }
     ],
