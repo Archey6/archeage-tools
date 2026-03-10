@@ -27,7 +27,7 @@ export default {
     searchByProduct: '/service/search/product',
     searchByMaterial: '/service/search/material',
     event: '/service/events/${eventId}',
-    events: 'https://raw.githubusercontent.com/Archey6/archeage-tools/data/static/service/eventsNoDST.json',
+    events: 'https://raw.githubusercontent.com/Archey6/archeage-tools/data/static/service/eventsDST.json',
     eventTypes: 'https://raw.githubusercontent.com/Archey6/archeage-tools/data/static/service/types.json',
     users: '/service/users?usernames=${names}',
     skills: '/service/skills?ids=${skillIds}',
