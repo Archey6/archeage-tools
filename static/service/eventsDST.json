@@ -2759,7 +2759,7 @@
     ],
     "description": "Help deliver watermelons in Rookborne Basin.",
     "link": null,
-    "disabled": false
+    "disabled": true
   },
   {
     "id": 26,
